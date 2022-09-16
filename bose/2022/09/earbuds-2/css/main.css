@@ -1,0 +1,2375 @@
+@font-face {
+	font-family: 'Gotham';
+	src: url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham/Gotham.eot');
+	src: url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham/Gotham.eot') format('embedded-opentype'),
+	url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham/Gotham.woff') format('woff'),
+	url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham/Gotham.woff2') format('woff2'),
+    url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham/Gotham.ttf') format('truetype'),
+    url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham/Gotham.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-Bold';
+	src: url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham-Bold/Gotham-Bold.eot');
+	src: url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham-Bold/Gotham-Bold.eot') format('embedded-opentype'),
+	url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham-Bold/Gotham-Bold.woff') format('woff'),
+	url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham-Bold/Gotham-Bold.woff2') format('woff2'),
+    url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham-Bold/Gotham-Bold.ttf') format('truetype'),
+    url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham-Bold/Gotham-Bold.svg') format('svg');
+	font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-Italic';
+	src: url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham-Italic/GothamBoldItalic.eot');
+	src: url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham-Italic/GothamBoldItalic.eot') format('embedded-opentype'),
+	url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham-Italic/GothamBoldItalic.woff') format('woff'),
+	url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham-Italic/GothamBoldItalic.woff2') format('woff2'),
+    url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham-Italic/GothamBoldItalic.ttf') format('truetype'),
+    url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/fonts/Gotham-Italic/GothamBoldItalic.svg') format('svg');
+	font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	margin: 0;
+	font-family: 'gotham';
+	font-size: 16px;
+	line-height: 170%;
+	color: #000000;
+}
+
+sup {
+	position: inherit;
+	font-size: 20px;
+	vertical-align: 0px;
+}
+
+.full_container {
+	width: 100%;
+	max-width: 1920px;
+	padding: 0 80px;
+	display: block;
+	margin: auto;
+}
+
+.bg_999999 {
+	background-color: #999999;
+	color: #fff;
+	position: relative;
+	z-index: -1;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.order_1 {
+	order: 1;
+}
+
+.order_2 {
+	order: 2;
+}
+
+.container_1320 {
+	width: 100%;
+	max-width: 1400px;
+	padding: 0 20px;
+	display: block;
+	margin: auto;
+}
+
+.text_center {
+	text-align: center;
+}
+
+.rule_quite{
+	padding: 70px 0px;
+}
+
+.rule_quite .main_title {
+	text-transform: uppercase;
+	letter-spacing: 7px;
+}
+
+.main_title {
+	font-family: 'Gotham-Bold';
+	font-size: 48px;
+	line-height: 48px;
+	margin: 0 0 20px 0;
+}
+
+.gowtham_bold {
+	font-family: 'Gotham-Bold';
+}
+
+.gowtham_italic {
+	font-family: 'Gotham-Italic';
+}
+
+.header_content .gowtham_italic {
+	display: inline;
+}
+
+.common_padding {
+	padding: 50px 0;
+}
+
+header {
+	background-color: #000000;
+	display: flex;
+	align-items: center;
+	width: 100%;
+	border-bottom: 1px solid #2b2b2b;
+}
+
+.header_logo img {
+	width: 150px;
+}
+
+.common_btn {
+	background-color: #fff;
+	border-radius: 50px;
+	font-size: 14px;
+	color: #000000;
+	width: 239px;
+	text-transform: uppercase;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	transition: 0.2s;
+	height: 80px;
+	font-size: 22px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-right: 5%;
+	font-family: 'Gotham-Bold';
+	text-decoration: none!important;
+	border: 1px solid #fff;
+}
+
+.common_btn:hover {
+	background-color: #000000;
+	color: #fff;
+	border-color: #fff;
+}
+
+.header_content {
+	color: #fff;
+	padding-left: 5%;
+	flex: 2;
+	text-align: center;
+	font-size: 48px;
+	font-family: 'Gotham-Bold';
+	line-height: 115%;
+}
+
+.header_content span:after {
+	content: "®";
+	font-size: 52px;
+	position: relative;
+	top: 0px;
+}
+
+/* homepage start */
+.rugged_design_img {
+	width: 50px;
+}
+
+.banner_sec {
+	background-image: url('https://virginmegastore.github.io/brands/bose/2022/09/earbuds-2/img/banner_img.png');
+	height: calc(100vh - 195px);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.main_title span {
+	display: table;
+	margin: auto;
+}
+
+.half_sec_design .main_title span{
+	display: inline;
+	/*font-family: 'Gotham';*/
+	font-style: italic;
+}
+
+.main_title sup{
+	font-size: 30px;
+	vertical-align: 20px;
+}
+
+.feature_sec {
+	background-color: #F2F2F2;
+	padding: 20px;
+}
+
+.feature_list ul {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+@media(min-width:769px) {
+	.feature_list ul li {
+		width: 25%;
+		padding: 15px 90px 15px 10px;
+		text-transform: uppercase;
+		position: relative;
+		padding-left: 56px!important;
+		display: flex;
+		align-items: center;
+		justify-content: left;
+	}
+
+	.feature_list ul li .feature_icon {
+		width: 50px;
+		left: 0;
+		position: absolute;
+	}
+}
+
+@media(max-width:768px) {
+	.feature_list ul li {
+		width: 50%;
+		display: flex;
+		align-items: center;
+		padding: 15px 10px;
+		text-transform: uppercase;
+	}
+}
+
+.title_with_icon {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0 0 15px 0;
+	text-transform: uppercase;
+}
+
+.feature_icon {
+	width: 50px;
+	text-align: left;
+}
+
+.content_sec .feature_icon img.sweat_icon{
+	margin-left: 15px;
+}
+
+.feature_icon.water_drop {
+	width: 50px;
+}
+
+.section_bg img,.half_sec_img {
+	width: 100%;
+}
+
+.half_sec_img.listen_music_but{
+	max-width: 450px;
+	margin-left: 150px;
+}
+
+.listen_music{
+	width: 100%;
+	background: #999999;
+	color: #fff;
+	padding: 70px 0;
+	margin-bottom: 50px;
+}
+
+.half_sec_design {
+	display: flex;
+	align-items: center;
+}
+
+.half_sec_design .content_sec p span.italic{
+	font-style: italic;
+}
+
+.col_50 {
+	width: calc(50% - 100px);
+	margin: auto;
+}
+
+.app_sec .feature_list ul li {
+	display: table;
+	padding: 0 15px!important;
+	text-transform: initial;
+}
+
+.feature_sec.app_sec {
+	padding: 50px 20px;
+}
+
+.app_sec .feature_icon {
+	display: table;
+	margin-bottom: 15px;
+	position: initial!important;
+}
+
+.app_sec .feature_list p {
+	margin: 0;
+}
+
+.section_bg.noice_img{
+	max-width: 1280px;
+	margin: 80px auto 50px;
+}
+
+.section_bg.noice_img.all_day{
+	margin: 100px auto;
+}
+
+.connect_app {
+	padding: 20px 15px;
+}
+
+.app_link {
+	padding: 10px 15px 0 15px;
+}
+
+.app_link a {
+	display: table;
+	margin: 10px 0;
+}
+
+.new_design_sec .col_65 {
+	width: calc(67% - 70px);
+	margin: auto;
+}
+
+.new_design_sec .col_25 {
+	width: calc(23% - 70px);
+	margin: auto;
+}
+
+.new_design_sec .col_30 {
+	width: calc(30% - 70px);
+	margin: auto;
+}
+
+.new_design_sec .col_70 {
+	width: calc(70% - 70px);
+	margin: auto;
+}
+
+.new_design_sec .col_30 .content_sec {
+	margin-top: -60px;
+}
+
+.new_design_sec .col_75 {
+	width: calc(75% - 70px);
+	margin: auto;
+}
+
+.new_design_sec .container_1320 {
+	max-width: 1500px;
+}
+
+.full_bg {
+	max-width: 1200px;
+	padding-top: 50px;
+}
+
+.full_bg img {
+	width: 100%;
+	padding: 0 50px;
+}
+
+.new_design_sec .half_sec_design {
+	padding: 0px 15px 0 15px;
+}
+
+.new_design_sec .col_65 .content_sec {
+	padding-bottom: 100px;
+}
+
+.new_design_sec .col_35 {
+	width: calc(35% - 70px);
+	margin: auto;
+}
+
+.new_design_sec .col_35 .half_sec_img {
+	margin-top: -150px;
+}
+
+.half_sec_design .half_img {
+	width: 100%;
+}
+
+.half_sec .full_container {
+	padding: 0 20px;
+}
+
+.para_break,.para_break_new {
+	display: table;
+}
+
+.half_sec_design .title_with_icon {
+	justify-content: flex-start;
+}
+
+.ear_buds_sec {
+	position: relative;
+	z-index: -1;
+}
+
+.ear_buds_img {
+	position: absolute;
+	width: calc(50% - 82px);
+	top: 0;
+	transform: translate(0,-50%);
+	z-index: -1;
+}
+
+.feature_details .full_container .half_sec_design:nth-child(odd) .content_sec, .listen_music .full_container .half_sec_design:nth-child(odd) .content_sec {
+	padding-left: 75px;
+}
+
+.slider_sec {
+	padding: 50px 0;
+}
+
+.gallery_slider {
+	width: 100%;
+	padding: 0 100px;
+	display: flex;
+}
+
+.gallery_list {
+	width: 100%;
+	display: flex;
+}
+
+.gallery_half {
+	width: 50%;
+}
+
+.full_height_gallery {
+	height: 100%;
+}
+
+.gal_60 {
+	height: 60%;
+}
+
+.gal_40 {
+	height: 40%;
+}
+
+.vertical_gal {
+	display: flex;
+	flex-direction: column;
+}
+
+.gallery_list img {
+	width: 100%;
+	padding: 5px;
+	object-fit: contain;
+}
+
+.gallery_slider_sec {
+	position: relative;
+	margin-top: 40px;
+}
+
+.slider-controls .arrows {
+	position: absolute;
+	top: 50%;
+	transform: translate(0 , -50%);
+	z-index: 9;
+	cursor: pointer;
+}
+
+.slider-controls .slide-m-next {
+	right: 0;
+}
+
+.gallery_slider_sec .slick-dots {
+	left: 0;
+	bottom: -35px;
+}
+
+.gallery_slider_sec .slick-dots li button:before, .comes_together .slick-dots li button:before {
+	font-size: 10px;
+	opacity: 1;
+	color: #666666;
+}
+
+.gallery_slider_sec .slick-dots li.slick-active button:before, .comes_together .slick-dots li.slick-active button:before {
+	font-size: 16px;
+}
+
+.how_it_comes_content {
+	padding: 20px 0 0 0;
+}
+
+.how_it_comes  .how_it_comes_content .content_sec p {
+	max-width: 896px;
+	width: 100%;
+	margin: auto;
+}
+
+.how_it_comes_content .content_sec {
+	padding-bottom: 0;
+}
+
+.all_parts .how_it_comes_content .content_sec{
+	text-align: left;
+}
+
+footer {
+	background-color: #181818;
+	color: #fff;
+	font-size: 14px;
+	min-height: 398px;
+	margin-top: 240px;
+}
+
+.footer_sec {
+	display: flex;
+	padding: 0 50px 100px 50px;
+}
+
+.col_60 {
+	width: 60%;
+}
+
+.footer_bose_img{
+	margin-top: -180px;
+}
+
+.col_40 {
+	width: 40%;
+}
+
+.footer_logo {
+	float: right;
+}
+
+.white_buds {
+	display: table;
+	margin: -150px 0 0  70px;
+	position: relative;
+}
+
+.content_sec p:last-child {
+	margin: 0;
+}
+
+/* tooltip effect */
+#hotspotImg {
+	position: relative;
+}
+
+.hot-spot {
+	position: absolute;
+}
+
+.pulse_btn_sec {
+	position: absolute;
+	z-index: 1;
+	width: 30px;
+	height: 30px;
+	padding: 0;
+	clear: both;
+	font-size: 15px;
+	text-align: center;
+	background-color: #fff;
+	border: 1px solid #a6a6a6;
+	border-radius: 30px;
+	outline: none;
+	user-select: none;
+	transition: all 0.5s ease-out;
+	cursor: pointer;
+}
+
+.pulse_plus:before {
+	content: "";
+	width: 2px;
+	height: 15px;
+	position: absolute;
+	background-color: #000000;
+	top: 6px;
+	left: 13px;
+}
+
+.pulse_plus:after {
+	content: "";
+	width: 2px;
+	height: 15px;
+	position: absolute;
+	background-color: #000000;
+	top: 6px;
+	left: 13px;
+	transform: rotate(90deg);
+}
+
+.pulse_plus {
+	opacity: 1;
+	transition: all 0.5s ease-out;
+}
+
+.pulse_btn_sec.active,.pulse_btn_sec:hover {
+	transform: rotate(90deg);
+}
+
+.pulse_btn_sec.active .pulse_plus,.pulse_btn_sec:hover .pulse_plus {
+	opacity: 0;
+}
+
+.pulse_minus {
+	opacity: 0;
+	transition: all 0.5s ease-out;
+}
+
+.pulse_btn_sec.active .pulse_minus,.pulse_btn_sec:hover .pulse_minus {
+	opacity: 1;
+}
+
+.pulse_minus:after {
+	content: "";
+	width: 2px;
+	height: 15px;
+	position: absolute;
+	background-color: #000000;
+	top: 6px;
+	left: 13px;
+}
+
+.pulse_ani {
+	top: -11px;
+	left: -11px;
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	border: 1px solid #a6a6a6;
+	position: absolute;
+}
+
+.pulse1 {
+	animation: pulse 2s linear infinite 0s;
+}
+
+.pulse2 {
+	animation: pulse 2s linear infinite 1s;
+}
+
+@keyframes pulse {
+	0% {
+		opacity: 0;
+		transform: scale(0.5);
+	}
+
+	33% {
+		opacity: 1;
+		transform: scale(1);
+	}
+
+	100% {
+		opacity: 0;
+		transform: scale(1.5);
+	}
+}
+
+.all_come_together{
+	position: relative;
+	font-size: 16px;
+	line-height: 24px;
+	width: 100%;
+}
+.all_come_together p{
+	margin-bottom: 0;
+}
+.earbud_head{
+	font-family: 'Gotham-Bold';
+}
+.earbud_parts1{
+	width: 270px;
+	border-left: 2px dotted #707070;
+	padding: 0 0 173px 20px;
+	position: absolute;
+	top: 200px;
+	left: 95px;
+}
+.earbud_parts1 .animate_icon{
+	position: absolute;
+	bottom: -35px;
+	left: -35px;
+}
+.earbud_parts2{
+	width: 250px;
+	border-left: 2px dotted #707070;
+	padding: 210px 0 0 20px;
+	position: absolute;
+	bottom: 50px;
+	left: 105px;
+}
+.earbud_parts2 .animate_icon{
+	position: absolute;
+	top: -35px;
+	left: -35px;
+}
+.earbud_parts3{
+	width: 550px;
+	border-top: 2px dotted #707070;
+	padding: 20px 0 0 320px;
+	position: absolute;
+	bottom: 75px;
+	left: 255px;
+}
+.earbud_parts3::after{
+	content: "";
+    border-right: 2px dotted #707070;
+    position: absolute;
+    top: -114px;
+    left: 0;
+    height: 110px;
+    width: 2px;
+    z-index: 0;
+}
+.earbud_parts3 .animate_icon{
+	position: absolute;
+	top: -170px;
+	left: -32px;
+    z-index: 1;
+}
+.earbud_parts4{
+	width: 250px;
+    border-left: 2px dotted #707070;
+    padding: 0 0 400px 20px;
+    position: absolute;
+    top: 70px;
+    left: 450px;
+}
+.earbud_parts4::after{
+	content: "";
+    border-bottom: 2px dotted #707070;
+    position: absolute;
+    bottom: 0;
+    left: -29px;
+    height: 2px;
+    width: 25px;
+    z-index: 0;
+}
+.earbud_parts4 .animate_icon{
+	position: absolute;
+	bottom: -35px;
+	left: -80px;
+	z-index: 1;
+}
+.earbud_parts5{
+	width: 275px;
+    border-left: 2px dotted #707070;
+    padding: 0 0 220px 20px;
+    position: absolute;
+    top: 70px;
+    left: 790px;
+}
+.earbud_parts5 .animate_icon{
+	position: absolute;
+	bottom: -35px;
+	left: -35px;
+}
+.earbud_parts6{
+	width: 250px;
+	border-left: 2px dotted #707070;
+	padding: 210px 0 0 20px;
+	position: absolute;
+	bottom: 220px;
+	left: 1045px;
+}
+.earbud_parts6 .animate_icon{
+	position: absolute;
+	top: -35px;
+	left: -35px;
+}
+.earbud_parts7{
+	width: 270px;
+    border-left: 2px dotted #707070;
+    padding: 0 0 130px 20px;
+    position: absolute;
+    top: 90px;
+    right: 260px;
+}
+.earbud_parts7 .animate_icon{
+	position: absolute;
+	bottom: -35px;
+	left: -35px;
+}
+.earbud_parts8{
+	width: 270px;
+    border-top: 2px dotted #707070;
+    padding: 20px 0px 0 0px;
+    position: absolute;
+    bottom: 340px;
+    right: 80px;
+}
+.earbud_parts8::after{
+	content: "";
+    border-right: 2px dotted #707070;
+    position: absolute;
+    top: -114px;
+    right: 0;
+    height: 110px;
+    width: 2px;
+    z-index: 0;
+}
+.earbud_parts8 .animate_icon{
+	position: absolute;
+    top: -170px;
+    right: -32px;
+    z-index: 1;
+}
+.animate_icon {
+	width: 68px;
+	height: 68px;
+	animation: scale_animate .7s linear infinite alternate;
+}
+@keyframes scale_animate {
+	0% {
+		transform: scale(.8);
+	}
+	100% {
+		transform: scale(1);
+	}
+}
+
+.how_it_comes_content .content_sec {
+	text-align: center;
+}
+
+.tooltip_line {
+	height: 25px;
+	border-left: 2px dotted #a6a6a6;
+	transition: all 1s ease-out;
+}
+
+.tooltip_hor_line {
+	width: 0px;
+	border-top: 2px dotted #a6a6a6;
+	transition: all 1s ease-out;
+}
+
+.tooltip_hor_line.active {
+	width: 25px;
+}
+
+.height1.active {
+	height: 225px;
+}
+
+.height2.active {
+	height: 225px;
+}
+
+.height3.active {
+	height: 180px;
+}
+
+.height4.active {
+	height: 100px;
+}
+
+.height5.active {
+	height: 220px;
+}
+
+.height6.active {
+	height: 80px;
+}
+
+.tooltip_sec {
+	position: absolute;
+	top: 5px;
+	left: 14px;
+}
+
+.tooltip_sec.tooltip_hori {
+	top: 14px;
+	left: initial;
+	right: 0;
+	display: flex;
+}
+
+.tooltip_hori .tooltip_content {
+	border-top: 0px;
+	border-right: 2px dotted #a6a6a6;
+}
+
+.tooltip_content {
+	padding: 10px;
+	border-top: 2px dotted #a6a6a6;
+	background-color: rgba(255,255,255,0.8);
+	width: 350px;
+	color: #333;
+	display: none;
+	position: relative;
+	z-index: 9;
+}
+
+.tooltip_content.active {
+	display: block;
+}
+
+.tooltip_content h4 {
+	font-size: 17px;
+	font-family: 'Gotham-Bold';
+}
+
+.hotspot_pagination ul {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.hotspot_pagination li.active {
+	width: 15px;
+	height: 15px;
+}
+
+.hotspot_pagination li {
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: #000000;
+	margin: 0 10px;
+}
+
+.mobile_hotspot {
+	padding: 0 0 130px;
+	display: none;
+}
+
+.mobile_hotspot_content {
+	padding-top: 30px;
+}
+
+.mobile_hotspot_content h4 {
+	font-size: 17px;
+	font-family: 'Gotham-Bold';
+	color: #333;
+}
+
+.tooltip_hide {
+	display: none;
+}
+
+.feature_icon img.sweat_icon {
+	margin-left: 15px;
+}
+
+.spec_img {
+	max-width: 450px;
+	margin-left: 50px;
+}
+
+.spec_img img {
+	width: 100%;
+}
+
+.accordion_sec {
+	padding-bottom: 150px;
+}
+
+.accordion_list {
+	border-top: 1px solid #E5E5E5;
+}
+
+.accordion_title {
+	font-size: 20px;
+}
+
+.accordion_title_sec {
+	font-size: 24px;
+	position: relative;
+	padding: 30px;
+}
+
+.accordion_title_sec i {
+	font-size: 30px;
+}
+
+.accordion_title_sec.active i {
+	transform: rotate(180deg);
+}
+
+.accordion_title_sec.active {
+	background-color: #E5E5E5;
+	font-family: 'Gotham-Bold';
+}
+
+.accordion_details ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: table;
+	width: 100%;
+}
+
+.accordion_details ul li {
+	float: left;
+	width: 50%;
+	line-height: 40px;
+	font-size: 20px;
+	position: relative;
+	padding-left: 15px;
+}
+
+.accordion_details ul li:before {
+	content: "";
+	width: 7px;
+	height: 2px;
+	background-color: #333333;
+	position: absolute;
+	top: 21px;
+	left: 0;
+}
+
+.accordion_title img {
+	width: 30px;
+	margin-right: 20px;
+}
+
+.accordion_title span {
+	margin: 1px 0;
+}
+
+.accordion_details {
+	display: none;
+	padding: 45px 30px 30px 30px;
+}
+
+.accordion_plus {
+	opacity: 1;
+	transition: all 0.5s ease-out;
+}
+
+.accordion_minus {
+	opacity: 0;
+	transition: all 0.5s ease-out;
+}
+
+.accordion_minus:after {
+	content: "";
+	width: 2px;
+	height: 15px;
+	position: absolute;
+	background-color: #000000;
+	top: 6px;
+	left: 13px;
+}
+
+.accordion_title_sec.active .accordion_minus {
+	opacity: 1;
+}
+
+.accordion_plus:before {
+	content: "";
+	width: 2px;
+	height: 15px;
+	position: absolute;
+	background-color: #000000;
+	top: 6px;
+	left: 13px;
+}
+
+.accordion_plus:after {
+	content: "";
+	width: 2px;
+	height: 15px;
+	position: absolute;
+	background-color: #000000;
+	top: 6px;
+	left: 13px;
+	transform: rotate(90deg);
+}
+
+.accordion_title_sec.active .accordion_button {
+	transform: rotate(90deg);
+}
+
+.accordion_title_sec.active .accordion_plus {
+	opacity: 0;
+}
+
+.accordion_button {
+	position: absolute;
+	z-index: 1;
+	width: 30px;
+	height: 30px;
+	padding: 0;
+	clear: both;
+	font-size: 15px;
+	text-align: center;
+	outline: none;
+	user-select: none;
+	transition: all 0.5s ease-out;
+	cursor: pointer;
+	right: 20px;
+	top: 30px;
+}
+
+.accordion_details p {
+	margin: 0;
+}
+
+.buds_spec {
+	display: flex;
+}
+
+.buds_types {
+	display: flex;
+	padding-top: 20px;
+}
+
+.buds_type {
+	width: 28px;
+	height: 28px;
+	border-radius: 50%;
+	margin-right: 10px;
+	position: relative;
+	cursor: pointer;
+}
+
+.buds_type:after {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	z-index: 0;
+	width: 36px;
+	height: 36px;
+	border: 2px solid transparent;
+	border-radius: 100%;
+	content: " ";
+	transform: translate(-50%, -50%) scale(0.5);
+	transition: transform 300ms, border 300ms;
+	transition-timing-function: cubic-bezier(0.64, 0.04, 0.35, 1);
+}
+
+.buds_type:hover::after,.buds_type.active::after {
+	border-color: #000;
+	transform: translate(-50%, -50%) scale(1);
+}
+
+.spec_img img {
+	display: none;
+}
+
+.buds_color {
+	padding-top: 10px;
+}
+
+.footer_sec p {
+	margin-top: 45px;
+	margin-bottom: 0;
+	font-size: 14px;
+	line-height: 16px;
+}
+.footer_sec p sup{
+	font-size: 14px;
+}
+.difference_between {
+	margin-top: 20px;
+}
+
+.hide_xl{
+    display: block;
+}
+@media(max-width:1919px) {
+	.all_come_together{
+		width: 1400px;
+		margin: 100px auto;
+	}	
+	.earbud_parts1{
+		top: 120px;
+		left: 78px;
+	}
+	.earbud_parts2{
+		bottom: -50px;
+		left: 85px;
+	}
+	.earbud_parts3{
+		bottom: 15px;
+		left: 200px;
+	}
+	.earbud_parts4{
+		top: -20px;
+		left: 365px;
+	}
+	.earbud_parts5{
+		top: 0px;
+		left: 620px;
+	}
+	.earbud_parts6{
+		bottom: 115px;
+		left: 850px;
+	}
+	.earbud_parts7{
+		top: 20px;
+		right: 150px;
+	}
+	.earbud_parts8{
+		width: 200px;
+		bottom: 170px;
+		right: 65px;
+	}
+}
+
+@media(max-width:1600px) {
+	
+    .hide_xl{
+        display: none;
+    }
+
+	.main_title sup{
+		font-size: 24px;
+		vertical-align: 10px;
+	}
+
+	.new_design_sec .col_30 .content_sec {
+		margin-top: -130px;
+	}
+
+	.new_design_sec .col_65 .content_sec {
+		padding-bottom: 50px;
+	}
+
+	.new_design_sec .col_65 {
+		width: calc(65% - 50px);
+	}
+
+	.new_design_sec .col_35 {
+		width: calc(35% - 50px);
+	}
+
+	.new_design_sec .col_25 {
+		width: calc(25% - 50px);
+	}
+
+	.new_design_sec .col_30 {
+		width: 300px;
+	}
+
+	.new_design_sec .col_70 {
+		width: calc(100% - 300px);
+	}
+
+	.new_design_sec .col_75 {
+		width: calc(75% - 50px);
+	}
+
+	.header_logo {
+		width: 100px;
+	}
+
+	.header_content {
+		font-size: 32px;
+	}
+
+	.header_content span:after {
+		font-size: 42px;
+		top: 0;
+	}
+
+	.common_btn {
+		width: 155px;
+		height: 45px;
+		font-size: 16px;
+	}
+
+	.banner_sec {
+		height: calc(100vh - 100px);
+	}
+
+	.main_title {
+		font-size: 32px;
+		line-height: 36px;
+		margin: 0 0 20px 0;
+	}
+
+	.feature_list ul li {
+		width: 33.3%;
+	}
+
+	.full_container {
+		padding: 0 50px;
+	}
+
+	.common_padding {
+		padding: 40px 0;
+	}
+
+	.rule_quite{
+		padding: 50px 0px;
+	}
+	
+	.rule_quite .main_title {
+		letter-spacing: 5px;
+	}
+
+	.title_with_icon {
+		padding: 0 0 10px 0;
+	}
+
+	.col_50 {
+		width: calc(50% - 50px);
+	}
+
+	.container_1320 {
+		max-width: 1200px;
+		padding: 0 70px;
+	}
+
+	.feature_details .full_container .half_sec_design:nth-child(odd) .content_sec, .listen_music .full_container .half_sec_design:nth-child(odd) .content_sec {
+		padding-left: 45px;
+	}
+
+	.slider_sec {
+		padding-top: 70px;
+	}
+
+	.slider-controls .arrows img {
+		width: 45px;
+	}
+
+	.white_buds {
+		margin: -85px 0 0 70px;
+		width: 350px;
+	}
+
+	.footer_logo {
+		width: 150px;
+	}
+
+	.footer_sec {
+		padding: 0 30px 30px 30px;
+	}
+
+	footer {
+		font-size: 12px;
+	}
+
+	.footer_bose_img{
+		margin-top: -180px;
+		width: 70%;
+	}
+}
+
+@media(max-width:1500px) {
+
+	.all_come_together{
+		width: 1250px;
+		margin: 100px auto;
+	}	
+	.earbud_parts1{
+		width: 200px;
+		top: 80px;
+		left: 65px;
+	}
+	.earbud_parts2{
+		width: 200px;
+		bottom: -70px;
+		left: 80px;
+	}
+	.earbud_parts3{
+		width: 500px;
+		bottom: -15px;
+		left: 180px;
+	}
+	.earbud_parts4{
+		width: 180px;
+		top: -30px;
+		left: 335px;
+		padding: 0 0 350px 20px;
+	}
+	.earbud_parts5{
+		top: -30px;
+		left: 560px;
+	}
+	.earbud_parts6{
+		width: 190px;
+		bottom: 70px;
+		left: 750px;
+	}
+	.earbud_parts7{
+		top: 50px;
+		right: 95px;
+	}
+	.earbud_parts8{
+		bottom: 160px;
+		right: 65px;
+	}
+	.all_come_together p{
+		font-size: 14px;
+		line-height: 20px;
+	}
+
+}
+
+
+@media(max-width:1450px) {
+
+	.all_come_together{
+		margin: 100px auto 0;
+	}	
+
+	.half_sec_img.listen_music_but{
+		margin-left: 0px;
+	}
+    
+	.gallery_slider {
+		padding: 0px 250px;
+	}
+
+	.height1.active {
+		height: 180px;
+	}
+
+	.height2.active {
+		height: 180px;
+	}
+
+	.height3.active {
+		height: 150px;
+	}
+
+	.height4.active {
+		height: 100px;
+	}
+
+	.height5.active {
+		height: 180px;
+	}
+
+	.height6.active {
+		height: 80px;
+	}
+	
+	footer{
+		margin-top: 20%;
+	}
+
+	.footer_bose_img{
+		margin-top: -22%;
+		width: 70%;
+	}
+
+}
+
+@media(max-width:1365px) {
+
+	.all_come_together{
+		width: 700px;
+		margin: 0px auto;
+	}	
+	.all_come_together img{
+		position: relative;
+		z-index: 0;
+		margin: -50px 0 -300px;
+	}
+	.earbud_parts1, .earbud_parts2, .earbud_parts3, .earbud_parts4, .earbud_parts5, .earbud_parts6, .earbud_parts7, .earbud_parts8{
+		width: 100%;
+		position: initial;
+		padding: 0;
+		margin: 250px 0 0 0;
+		border: none;
+		z-index: 9;
+	}	
+	.earbud_parts1 .animate_icon, .earbud_parts2 .animate_icon, .earbud_parts3 .animate_icon, .earbud_parts4 .animate_icon, .earbud_parts5 .animate_icon, .earbud_parts6 .animate_icon, .earbud_parts7 .animate_icon, .earbud_parts8 .animate_icon{
+		position: initial;
+	}
+	.earbud_parts1 .animate_icon{
+		margin: -230px 0 0 18px;
+	}
+	.earbud_parts2 .animate_icon{
+		margin: -165px 0 0 25px;
+	}
+	.earbud_parts3 .animate_icon{
+		margin: -175px 0 0 81px;
+	}
+	.earbud_parts4 .animate_icon{
+		margin: -169px 0 0 142px;
+	}
+	.earbud_parts5 .animate_icon{
+		margin: -275px 0 0 295px;
+	}
+	.earbud_parts6 .animate_icon{
+		margin: -260px 0 0 405px;
+	}
+	.earbud_parts7 .animate_icon{
+		margin: -287px 0 0 472px;
+	}
+	.earbud_parts8 .animate_icon{   
+		margin: -270px 0 250px 645px;
+	}
+	.earbud_parts3::after, .earbud_parts4::after, .earbud_parts5::after, .earbud_parts8::after{
+		display: none;
+	}
+	.all_come_together p{
+		font-size: 16px;
+		line-height: 22px;
+		width: 95%;
+		margin: 0 auto;
+	}
+	.all_come_together p sup{
+		font-size: 16px;
+	}
+	.animate_icon{
+		width: 40px;
+		height: 40px;
+	}
+
+}
+
+@media(max-width:1200px) {
+	.new_design_sec .col_65 {
+		width: calc(65% - 30px);
+	}
+
+	.content_sec .feature_icon img.sweat_icon{
+		margin-left: 0;
+	}
+
+	.res_container.container_1320 {
+		padding: 0 35px;
+	}
+
+	.new_design_sec .col_35 {
+		width: calc(35% - 30px);
+	}
+
+	.full_bg img {
+		padding: 0;
+	}
+
+	.new_design_sec .col_30 .content_sec {
+		margin-top: 0;
+		padding: 0;
+	}
+
+	.app_sec .feature_list ul li {
+		width: 33.3%;
+	}
+
+	.rugged_design .half_sec_design {
+		display: table;
+	}
+
+	.how_it_comes_content .content_sec {
+		padding-left: 30px;
+	}
+
+	.gallery_slider {
+		padding: 0px 150px;
+	}
+
+	.slider-controls .arrows img {
+		width: 35px;
+	}
+
+	.common_btn {
+		margin-right: 20px;
+	}
+
+	.header_content {
+		padding-left: 20px;
+	}
+
+	.new_design_sec .half_sec_design {
+		padding: 0;
+	}
+
+	.new_design_sec .col_65 .content_sec {
+		padding-bottom: 30px;
+	}
+
+	.new_design_sec .col_25 {
+		width: calc(25% - 30px);
+	}
+
+	.new_design_sec .col_30 {
+		width: 100%;
+	}
+
+	.new_design_sec .col_70 {
+		width: 100%;
+	}
+
+	.new_design_sec .col_75 {
+		width: calc(75% - 30px);
+	}
+
+	.col_50 {
+		width: calc(50% - 30px);
+	}
+
+	.common_padding {
+		padding: 30px 0;
+	}
+
+	.feature_details .full_container .half_sec_design:nth-child(odd) .content_sec, .listen_music .full_container .half_sec_design:nth-child(odd) .content_sec {
+		padding-left: 25px;
+	}
+
+	.title_with_icon {
+		padding: 0 0 10px 0;
+	}
+
+	.title_with_icon img {
+		width: 30px;
+	}
+
+	.feature_icon.water_drop img {
+		width: 13px;
+	}
+
+	.title_with_icon .feature_icon {
+		width: 40px;
+	}
+
+	.feature_list ul li {
+		width: 50%;
+		padding: 15px 30px 15px 10px;
+	}
+
+	.how_it_comes_content {
+		padding: 0;
+	}
+
+	.slider_sec {
+		padding-top: 50px;
+	}
+
+	.white_buds {
+		margin: -68px 0 0 70px;
+		width: 290px;
+	}
+
+	.footer_logo {
+		width: 130px;
+	}
+
+	.half_sec .full_container {
+		padding: 0 50px;
+	}
+
+	.feature_details .full_container {
+		padding: 0 35px;
+	}
+
+	.footer_sec {
+		padding: 0 0 30px 0;
+	}
+
+	.container_1320 {
+		padding: 0 50px;
+	}
+
+	.full_bg {
+		padding-top: 30px;
+	}
+	
+	.footer_bose_img{
+		margin-top: -20%;
+		width: 60%;
+	}
+
+}
+
+@media(min-width:992px) {
+	.ear_buds_img_mob {
+		display: none;
+	}
+}
+
+@media(max-width:992px) {
+	.main_title span {
+		display: inline;
+	}
+
+	.section_bg.noice_img.all_day{
+		margin: 70px auto;
+	}
+
+	.para_break_new {
+		display: inline;
+	}
+
+	.res_container.container_1320 {
+		padding: 0 50px;
+	}
+
+	.new_design_sec .col_35 {
+		display: none;
+	}
+
+	.new_design_sec .col_65 {
+		width: 100%;
+	}
+
+	.header_content {
+		line-height: 115%;
+		font-size: 25px;
+	}
+
+	.header_content span:after {
+		font-size: 30px;
+	}
+
+	.accordion_sec {
+		padding: 0px 0 100px 0;
+	}
+
+	.ear_buds_img_mob {
+		text-align: center;
+		position: relative;
+	}
+
+	.ear_buds_img_mob img {
+		width: 400px;
+	}
+
+	.ear_buds_img_mob:after {
+		content: '';
+		width: 100%;
+		position: absolute;
+		height: 50%;
+		background-color: #999999;
+		left: 0;
+		bottom: 0;
+		z-index: -1;
+	}
+
+	.double_tap .half_sec_design .col_50:first-child {
+		display: none;
+	}
+
+	.double_tap .full_container .content_sec {
+		padding: 0;
+	}
+
+	.double_tap .bg_999999 .full_container .content_sec {
+		padding-bottom: 30px;
+	}
+
+	.double_tap .half_sec_design .col_50 {
+		width: 100%;
+	}
+
+	.ear_buds_img {
+		display: none;
+	}
+
+	.double_tap .common_padding {
+		padding: 0;
+	}
+
+	.how_it_comes .full_container {
+		padding: 0 20px;
+	}
+
+	.height1.active {
+		height: 130px;
+	}
+
+	.height2.active {
+		height: 130px;
+	}
+
+	.height3.active {
+		height: 100px;
+	}
+
+	.height5.active {
+		height: 130px;
+	}
+}
+
+@media(max-width:768px) {
+	.full_bg {
+		padding-top: 20px;
+	}
+
+	.section_bg.noice_img.all_day{
+		margin: 50px auto;
+	}
+
+	.feature_details .half_sec_img, .listen_music .half_sec_img{
+		margin-top: 20px;
+	}
+
+	.listen_music .half_sec_img{
+		width: 70%;
+	}
+
+	.listen_music .full_container .half_sec_design:nth-child(odd) .content_sec {
+		padding-left: 0px;
+	}
+
+	.listen_music{
+		padding: 50px 0;	
+		margin-bottom: 30px;
+	}
+
+	.listen_music .col_50.order_1{
+		display: flex;
+		justify-content: center;
+	}
+
+	.res_container.container_1320 {
+		padding: 0 30px;
+	}
+
+	footer {
+		min-height: 320px;
+	}
+
+	.new_design_sec .col_65 .content_sec {
+		padding-bottom: 20px;
+	}
+
+	.feature_sec.app_sec {
+		padding: 30px 0;
+	}
+
+	.app_sec .feature_list ul li {
+		width: 100%;
+		padding: 0 0 20px 0!important;
+	}
+
+	.connect_app {
+		padding: 15px 0;
+	}
+
+	.app_link {
+		padding: 10px 0 0 0;
+	}
+
+	.feature_icon img.sweat_icon {
+		margin-left: 12px;
+		max-width: 13px;
+	}
+
+	.banner_sec {
+		height: 500px;
+	}
+
+	.feature_icon {
+		margin-right: 10px;
+	}
+
+	.feature_details .half_sec_design, .listen_music .half_sec_design{
+		display: table;
+	}
+
+	.col_50 {
+		width: 100%;
+	}
+
+	.feature_details .full_container .half_sec_design .content_sec {
+		padding-left: 0px !important;
+	}
+
+	.slider-controls {
+		display: none;
+	}
+
+	.gallery_slider {
+		padding: 0px 100px;
+	}
+
+	.how_it_comes_content .content_sec {
+		padding-left: 10px;
+	}
+
+	.how_it_comes_content .content_sec p {
+		width: 100%;
+	}
+
+	.common_btn {
+		width: auto;
+		height: auto;
+		padding: 5px 15px;
+	}
+
+	.container_1320 {
+		padding: 0 30px;
+	}
+    /* .tooltip_sec{
+        display:none
+    } */
+	.half_sec .full_container {
+		padding: 0 30px;
+	}
+    
+    /* .pulse_plus,.pulse_minus{
+        display:none
+    } */
+    
+    /* .hot-spot{
+        display:none
+    }
+    .first_hotspot{
+        display:block
+    }
+    .hotspot_sec{
+        display:none
+    }
+    #hotspot1{
+        display:block
+    } */
+	.mobile_hotspot {
+		display: block;
+	}
+
+	.common_btn {
+		margin-left: auto;
+	}
+
+	.main_title {
+		font-size: 28px;
+		line-height: 32px;
+		margin: 0 0 15px 0;
+	}
+
+	.main_title sup{
+		font-size: 20px;
+		vertical-align:10px;
+	}
+
+	.full_container {
+		padding: 0 30px;
+	}
+
+	.feature_sec {
+		padding: 10px 0;
+	}
+
+	.feature_icon {
+		width: 36px;
+	}
+
+	.feature_icon img {
+		max-width: 30px;
+		margin: auto;
+		display: table;
+	}
+
+	.feature_list ul li {
+		padding: 10px 0;
+		width: 100%;
+	}
+
+	.pulse_btn_sec {
+		width: 20px;
+		height: 20px;
+	}
+
+	.pulse_ani {
+		top: -6px;
+		left: -6px;
+		width: 30px;
+		height: 30px;
+	}
+
+	.pulse_plus:before {
+		height: 10px;
+		left: 8px;
+		top: 4px;
+	}
+
+	.pulse_plus:after {
+		height: 10px;
+		left: 8px;
+		top: 4px;
+	}
+
+	.pulse_minus:after {
+		height: 10px;
+		top: 4px;
+		left: 8px;
+	}
+
+	.tooltip_sec {
+		left: 9px;
+	}
+
+	.tooltip_line {
+		height: 15px;
+	}
+
+	#hotspot7 .tooltip_sec {
+		left: initial;
+		right: -12px;
+	}
+
+	#hotspot7 .tooltip_line {
+		border-right: 2px dotted #a6a6a6;
+		border-left: 0px;
+	}
+
+	.footer_bose_img{
+		margin-top: -17%;
+		width: 50%;
+	}
+}
+
+@media(max-width:767px) {
+	.half_sec .full_container {
+		padding: 0 20px;
+	}
+
+	.all_come_together{
+		width: 530px;
+	}
+	.earbud_parts1, .earbud_parts2, .earbud_parts3, .earbud_parts4, .earbud_parts5, .earbud_parts6, .earbud_parts7, .earbud_parts8{
+		margin: 225px 0 0 0;
+	}
+	.earbud_parts1 .animate_icon{
+		margin: -200px 0 0 8px;
+	}
+	.earbud_parts2 .animate_icon{
+		margin: -145px 0 0 15px;
+	}
+	.earbud_parts3 .animate_icon{
+		margin: -155px 0 0 58px;
+	}
+	.earbud_parts4 .animate_icon{
+		margin: -166px 0 0 103px;
+	}
+	.earbud_parts5 .animate_icon{
+		margin: -230px 0 0 215px;
+	}
+	.earbud_parts6 .animate_icon{
+		margin: -220px 0 0 300px;
+	}
+	.earbud_parts7 .animate_icon{
+		margin: -247px 0 0 351px;
+	}
+	.earbud_parts8 .animate_icon{   
+		margin: -230px 0 210px 483px;
+	}
+
+}
+
+
+@media(max-width:580px) {
+
+	.gallery_slider_sec {
+		margin-top: 20px;
+	}
+
+	.res_container.container_1320 {
+		padding: 0 15px;
+	}
+
+	footer {
+		min-height: inherit;
+	}
+
+	.footer_sec p {
+		margin: 45px 0 50px 0;
+		font-size: 12px;
+	}
+
+	.accordion_title {
+		font-size: 18px;
+	}
+
+	.accordion_details {
+		padding: 15px;
+	}
+
+	.accordion_sec {
+		padding: 0px 0 80px 0;
+	}
+
+	.buds_spec {
+		display: table;
+		width: 100%;
+	}
+
+	.spec_img {
+		max-width: 275px;
+		margin: auto;
+		display: table;
+		margin-top: 10px;
+	}
+
+	.feature_icon img.sweat_icon {
+		margin-left: 10px;
+	}
+    /* .header_content{
+        position: absolute;
+        top: 140px;
+        left: 50%;
+        transform: translate(-50%,0%);
+        padding: 0;
+        line-height: 110%;
+        background-color: rgba(0,0,0,0.6);
+        padding: 10px;
+    } */
+	.header_content {
+		padding-left: 5px;
+		font-size: 15px;
+		line-height: 110%;
+	}
+
+	.common_btn {
+		padding: 2px 7px;
+		line-height: 22px;
+		margin-right: 15px;
+		font-size: 10px;
+	}
+
+	.tooltip_content {
+		width: 330px;
+		border-width: 1px;
+	}
+
+	.tooltip_line {
+		border-width: 1px!important;
+	}
+
+	.tooltip_show {
+		display: none!important;
+	}
+
+	#hotspot1 .tooltip_content {
+		left: -50px;
+	}
+
+	#hotspot2 .tooltip_content {
+		left: -82px;
+	}
+
+	#hotspot4 .tooltip_content {
+		left: -97px;
+	}
+
+	#hotspot3 .tooltip_content {
+		left: -107px;
+	}
+
+	#hotspot5 .tooltip_content {
+		left: -178px;
+	}
+
+	#hotspot10 .tooltip_content {
+		left: -207px;
+	}
+
+	#hotspot7 .tooltip_content {
+		right: -107px;
+	}
+
+	#hotspot9 .tooltip_content {
+		left: -323px;
+	}
+
+	#hotspot7 .tooltip_sec {
+		right: -9px;
+	}
+
+	.tooltip_hide {
+		display: block;
+	}
+
+	body {
+		overflow-x: hidden;
+	}
+
+	.pulse_plus:before,.pulse_plus:after,.pulse_minus:after {
+		height: 7px;
+		left: 6px;
+		top: 3px;
+		width: 1px;
+	}
+
+	.tooltip_sec {
+		left: 7px;
+	}
+
+	.tooltip_content h4 {
+		font-size: 15px;
+	}
+
+	.tooltip_content p {
+		line-height: 150%;
+		font-size: 14px;
+		margin: 0;
+	}
+
+	.tooltip_line.active {
+		height: 77px!important;
+	}
+
+	.tooltip_line {
+		height: 10px;
+	}
+
+	#hotspotImg {
+		width: 140%;
+		left: -16%;
+	}
+
+	.header_content span:after {
+		font-size: 24px;
+		top: 4px;
+	}
+
+	.pulse_btn_sec {
+		width: 15px;
+		height: 15px;
+	}
+
+	.pulse_ani {
+		top: -5px;
+		left: -5px;
+		width: 23px;
+		height: 23px;
+	}
+
+	.banner_sec {
+		height: 300px;
+	}
+
+	.main_title {
+		font-size: 22px;
+		line-height: 28px;
+	}
+
+	.main_title sup{
+		font-size: 20px;
+		vertical-align:8px;
+	}
+
+	.header_logo {
+		width: 80px;
+	}
+
+	body {
+		font-size: 15px;
+	}
+
+	.title_with_icon {
+		text-align: left;
+	}
+
+	.container_1320 {
+		padding: 0 15px;
+	}
+
+	.full_container {
+		padding: 0 15px;
+	}
+
+	.ear_buds_img_mob img {
+		width: 80%;
+	}
+
+	.para_break {
+		display: inline;
+	}
+
+	.feature_details.common_padding {
+		padding-top: 0;
+	}
+
+	.slider_sec {
+		padding-top: 30px;
+	}
+
+	.gallery_slider {
+		padding: 0px;
+	}
+
+	.how_it_comes_content .content_sec {
+		padding-left: 0px;
+	}
+
+	.white_buds {
+		margin: -65px 0 0 -10px;
+		width: 180px;
+	}
+
+	.footer_logo {
+		width: 80px;
+		position: absolute;
+		top: 0;
+		right: 0;
+	}
+
+	.mobile_hotspot {
+		padding: 0 0 80px;
+	}
+
+	.footer_sec {
+		display: table;
+		position: relative;
+		padding: 0;
+	}
+
+	.col_60 {
+		width: 100%;
+	}
+
+	.title_with_icon .feature_icon {
+		width: 25px;
+	}
+
+	.feature_icon.water_drop img {
+		width: 12px;
+	}
+
+	.feature_icon.water_drop {
+		width: 15px;
+	}
+}
+
+@media(max-width:579px) {
+
+	.all_come_together{
+		width: 325px;
+	}
+	.all_come_together img{
+		margin: -100px 0 -300px;
+	}
+	.earbud_parts1, .earbud_parts2, .earbud_parts3, .earbud_parts4, .earbud_parts5, .earbud_parts6, .earbud_parts7, .earbud_parts8{
+		margin: 180px 0 0 0;
+	}
+	.earbud_parts1 .animate_icon{
+		margin: -200px 0 0 -2px;
+	}
+	.earbud_parts2 .animate_icon{
+		margin: -167px 0 0 2px;
+	}
+	.earbud_parts3 .animate_icon{
+		margin: -174px 0 0 27px;
+	}
+	.earbud_parts4 .animate_icon{
+		margin: -175px 0 0 55px;
+	}
+	.earbud_parts5 .animate_icon{
+		margin: -217px 0 0 127px;
+	}
+	.earbud_parts6 .animate_icon{
+		margin: -209px 0 0 178px;
+	}
+	.earbud_parts7 .animate_icon{
+		margin: -230px 0 0 208px;
+	}
+	.earbud_parts8 .animate_icon{   
+		margin: -221px 0 210px 287px;
+	}
+
+}
