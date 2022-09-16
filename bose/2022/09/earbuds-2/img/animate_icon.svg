@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="68" viewBox="0 0 68 68">
+  <g id="Group_14422" data-name="Group 14422" transform="translate(-1704.607 -9516)">
+    <g id="Group_14421" data-name="Group 14421" transform="translate(1499 9516)">
+      <g id="Group_32" data-name="Group 32" transform="translate(223.607 14)">
+        <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(0 4)" fill="#fff" stroke="#a9a9a9" stroke-width="1">
+          <circle cx="16" cy="16" r="16" stroke="none"/>
+          <circle cx="16" cy="16" r="15.5" fill="none"/>
+        </g>
+        <text id="_-" data-name="-" transform="matrix(-1, 0, 0, 1, 24, 0)" font-size="30" font-family="Helvetica" letter-spacing="-0.02em"><tspan x="3.005" y="23">-</tspan></text>
+      </g>
+      <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(215.607 10)" fill="none" stroke="#fff" stroke-width="1" opacity="0.8">
+        <circle cx="24" cy="24" r="24" stroke="none"/>
+        <circle cx="24" cy="24" r="23.5" fill="none"/>
+      </g>
+      <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(205.607)" fill="none" stroke="#fff" stroke-width="1" opacity="0.598">
+        <circle cx="34" cy="34" r="34" stroke="none"/>
+        <circle cx="34" cy="34" r="33.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-iPhone_13_12_Pro_Max_1">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_13_12_Pro_Max_1" data-name="iPhone 13, 12 Pro Max – 1" clip-path="url(#clip-iPhone_13_12_Pro_Max_1)">
+    <g id="comfortable_fit-" transform="translate(-2.18 -2.18)">
+      <g id="CONTAINER">
+        <rect id="Rectangle_1129" data-name="Rectangle 1129" width="34" height="34" transform="translate(0.18 0.18)" fill="none"/>
+      </g>
+      <g id="icons_outline" transform="translate(2.347 2.577)">
+        <g id="Page-1_35_" transform="translate(0 0)">
+          <g id="Pro-Tool-Copy-3_5_">
+            <g id="Comfortable-Fit_2_">
+              <path id="Shape_15_" d="M25.335,11a14.228,14.228,0,0,1,10.438,4.564l.274.3c1.117,1.264,1.765,1.558,3.016,1.026l.182-.086.923,2.046c-2.33,1.087-3.913.533-5.589-1.288l-.18-.2a12.04,12.04,0,0,0-9.063-4.118,12.357,12.357,0,1,0,0,24.713,12.033,12.033,0,0,0,8.813-3.842l.252-.277c1.684-1.912,3.244-2.569,5.522-1.6l.247.11-.922,2.042c-1.31-.611-1.971-.4-3.043.773l-.155.172a14.239,14.239,0,0,1-10.714,4.867,14.6,14.6,0,0,1,0-29.206Zm0,4.493A10.111,10.111,0,1,1,15.384,25.6,10.111,10.111,0,0,1,25.335,15.493Zm0,2.246A7.864,7.864,0,1,0,33.073,25.6a7.864,7.864,0,0,0-7.739-7.863Z" transform="translate(-10.732 -11)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

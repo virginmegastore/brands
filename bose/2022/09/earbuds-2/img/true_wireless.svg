@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-iPhone_13_12_Pro_Max_1">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_13_12_Pro_Max_1" data-name="iPhone 13, 12 Pro Max – 1" clip-path="url(#clip-iPhone_13_12_Pro_Max_1)">
+    <g id="true_wireless-" transform="translate(-6.759 -6.759)">
+      <g id="CONTAINER" transform="translate(0.277 0.277)">
+        <rect id="Rectangle_1122" data-name="Rectangle 1122" width="42" height="42" transform="translate(0.482 0.482)" fill="none"/>
+      </g>
+      <g id="icons_outline" transform="translate(13.134 7.317)">
+        <path id="Path_876" data-name="Path 876" d="M21.365,37.348V24.673L15.541,29.69l-1.2-1.385,6.534-5.631-6.534-5.631,1.2-1.385,5.815,5.017V8l9.657,8.346-7.338,6.328L31.013,29ZM23.2,24.692v8.649l5.017-4.329Zm0-12.656v8.649l5.017-4.329Z" transform="translate(-14.343 -8)"/>
+      </g>
+    </g>
+  </g>
+</svg>

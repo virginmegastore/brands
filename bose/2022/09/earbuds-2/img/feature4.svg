@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-iPhone_13_12_Pro_Max_1">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_13_12_Pro_Max_1" data-name="iPhone 13, 12 Pro Max – 1" clip-path="url(#clip-iPhone_13_12_Pro_Max_1)">
+    <g id="Eartip-B" transform="translate(-2.978 -5)">
+      <g id="container_48x48" transform="translate(-2.022)">
+        <rect id="Rectangle_1130" data-name="Rectangle 1130" width="39.981" height="40" fill="none"/>
+        <rect id="Rectangle_1131" data-name="Rectangle 1131" width="39.981" height="40" transform="translate(0.019)" fill="none"/>
+      </g>
+      <g id="outline" transform="translate(7 5)">
+        <path id="Path_880" data-name="Path 880" d="M20.227,41A1.218,1.218,0,0,1,19,39.792V13.208A1.218,1.218,0,0,1,20.227,12c9.543,0,15.955,5.406,15.955,10.455v8.09C36.182,35.594,29.771,41,20.227,41Zm1.227-26.55v24.1c7.293-.407,12.273-4.4,12.273-8V22.46c0-3.609-4.98-7.6-12.272-8.01Z" transform="translate(-14.182 -12)" fill="#000106"/>
+        <path id="Path_881" data-name="Path 881" d="M16.2,35.364a1.208,1.208,0,0,1-1.2-1.21V17.21a1.2,1.2,0,0,1,2.409,0V34.154a1.208,1.208,0,0,1-1.209,1.21Z" transform="translate(-15 -11.182)" fill="#000106"/>
+      </g>
+    </g>
+  </g>
+</svg>
