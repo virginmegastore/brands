@@ -2049,6 +2049,7 @@ Mixin to define padding per viewport and column number
   outline: none;
   padding: 12px 0;
   padding-left: 15px;
+  height: auto;
 }
 
 .channel-compare .selector-dropdown:focus {
