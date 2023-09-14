@@ -3228,7 +3228,7 @@ Mixin to define padding per viewport and column number
         height: 301px;
         background-size: 164px 301px;
         background-repeat: no-repeat;
-        background-image: url(./images/display_size_large.png?1693530711286);
+        background-image: url(../images/display_size_large.png?1693530711286);
       }
 
       .image-icon_iphone_13_pro_zoom {
@@ -3236,7 +3236,7 @@ Mixin to define padding per viewport and column number
         height: 20px;
         background-size: 58px 20px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone_13_pro_zoom_large.png?1693530711286);
+        background-image: url(../images/icon_iphone_13_pro_zoom_large.png?1693530711286);
       }
 
       .image-flex_icon_ios {
@@ -3244,7 +3244,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 49px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/flex_icon_ios_large.png?1693530711286);
+        background-image: url(../images/flex_icon_ios_large.png?1693530711286);
       }
 
       .image-icon_iphone13pro_camera_elevated {
@@ -3252,7 +3252,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 39px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone13pro_camera_elevated_large.png?1693530711286);
+        background-image: url(../images/icon_iphone13pro_camera_elevated_large.png?1693530711286);
       }
 
       .image-icon_camera_iphone_6s_plus {
@@ -3260,7 +3260,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_camera_iphone_6s_plus_large.png?1693530711286);
+        background-image: url(../images/icon_camera_iphone_6s_plus_large.png?1693530711286);
       }
 
       .image-header_iphone_8_plus_silver {
@@ -3268,7 +3268,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_8_plus_silver_large.png?1693530711286);
+        background-image: url(../images/header_iphone_8_plus_silver_large.png?1693530711286);
       }
 
       .image-icon_iphonexr_camera_elevated {
@@ -3276,7 +3276,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphonexr_camera_elevated_large.png?1693530711286);
+        background-image: url(../images/icon_iphonexr_camera_elevated_large.png?1693530711286);
       }
 
       .image-header_iphone_15_pro_max_tigry {
@@ -3284,7 +3284,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_15_pro_max_tigry_large.png?1693530711287);
+        background-image: url(../images/header_iphone_15_pro_max_tigry_large.png?1693530711287);
       }
 
       .image-roadside_assistance {
@@ -3292,7 +3292,7 @@ Mixin to define padding per viewport and column number
         height: 500px;
         background-size: 647px 500px;
         background-repeat: no-repeat;
-        background-image: url(./images/roadside_assistance_large.png?1693530711287);
+        background-image: url(../images/roadside_assistance_large.png?1693530711287);
       }
 
       .image-icon_iphone14pro_camera_elevated {
@@ -3300,7 +3300,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone14pro_camera_elevated_large.png?1693530711287);
+        background-image: url(../images/icon_iphone14pro_camera_elevated_large.png?1693530711287);
       }
 
       .image-hero {
@@ -3308,7 +3308,7 @@ Mixin to define padding per viewport and column number
         height: 462px;
         background-size: 2154px 462px;
         background-repeat: no-repeat;
-        background-image: url(./images/hero_large.png?1693530711287);
+        background-image: url(../images/hero_large.png?1693530711287);
       }
 
       .image-header_iphone_13_pink {
@@ -3316,7 +3316,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_13_pink_large.png?1693530711287);
+        background-image: url(../images/header_iphone_13_pink_large.png?1693530711287);
       }
 
       .image-icon_battery_100percent_elevated {
@@ -3324,7 +3324,7 @@ Mixin to define padding per viewport and column number
         height: 26px;
         background-size: 48px 26px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_battery_100percent_elevated_large.png?1693530711287);
+        background-image: url(../images/icon_battery_100percent_elevated_large.png?1693530711287);
       }
 
       .image-usb-c {
@@ -3332,7 +3332,7 @@ Mixin to define padding per viewport and column number
         height: 422px;
         background-size: 526px 422px;
         background-repeat: no-repeat;
-        background-image: url(./images/usb-c_large.png?1693530711287);
+        background-image: url(../images/usb-c_large.png?1693530711287);
       }
 
       .image-icon_iphone_12_pro_max_zoom {
@@ -3340,7 +3340,7 @@ Mixin to define padding per viewport and column number
         height: 18px;
         background-size: 56px 18px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone_12_pro_max_zoom_large.png?1693530711287);
+        background-image: url(../images/icon_iphone_12_pro_max_zoom_large.png?1693530711287);
       }
 
       .image-icon_iphone13_camera_elevated {
@@ -3348,7 +3348,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone13_camera_elevated_large.png?1693530711287);
+        background-image: url(../images/icon_iphone13_camera_elevated_large.png?1693530711287);
       }
 
       .image-header_iphone_6_plus_space_gray {
@@ -3356,7 +3356,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_6_plus_space_gray_large.png?1693530711287);
+        background-image: url(../images/header_iphone_6_plus_space_gray_large.png?1693530711287);
       }
 
       .image-icon_sos_circle_elevated {
@@ -3364,7 +3364,7 @@ Mixin to define padding per viewport and column number
         height: 42px;
         background-size: 42px 42px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_sos_circle_elevated_large.png?1693530711288);
+        background-image: url(../images/icon_sos_circle_elevated_large.png?1693530711288);
       }
 
       .image-camera {
@@ -3372,7 +3372,7 @@ Mixin to define padding per viewport and column number
         height: 500px;
         background-size: 647px 500px;
         background-repeat: no-repeat;
-        background-image: url(./images/camera_large.png?1693530711288);
+        background-image: url(../images/camera_large.png?1693530711288);
       }
 
       .image-header_iphone_xs_max_silver {
@@ -3380,7 +3380,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_xs_max_silver_large.png?1693530711288);
+        background-image: url(../images/header_iphone_xs_max_silver_large.png?1693530711288);
       }
 
       .image-icon_port_lightning_elevated {
@@ -3388,7 +3388,7 @@ Mixin to define padding per viewport and column number
         height: 19px;
         background-size: 49px 19px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_port_lightning_elevated_large.png?1693530711288);
+        background-image: url(../images/icon_port_lightning_elevated_large.png?1693530711288);
       }
 
       .image-header_iphone_15_pink {
@@ -3396,7 +3396,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_15_pink_large.png?1693530711288);
+        background-image: url(../images/header_iphone_15_pink_large.png?1693530711288);
       }
 
       .image-icon_iphone8plus_camera_elevated {
@@ -3404,7 +3404,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone8plus_camera_elevated_large.png?1693530711288);
+        background-image: url(../images/icon_iphone8plus_camera_elevated_large.png?1693530711288);
       }
 
       .image-icon_chip_a14_elevated {
@@ -3412,7 +3412,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_chip_a14_elevated_large.png?1693530711288);
+        background-image: url(../images/icon_chip_a14_elevated_large.png?1693530711288);
       }
 
       .image-header_iphone_14_plus_blue {
@@ -3420,7 +3420,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_14_plus_blue_large.png?1693530711288);
+        background-image: url(../images/header_iphone_14_plus_blue_large.png?1693530711288);
       }
 
       .image-header_iphone_7_black {
@@ -3428,7 +3428,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_7_black_large.png?1693530711288);
+        background-image: url(../images/header_iphone_7_black_large.png?1693530711288);
       }
 
       .image-flex_icon_environment {
@@ -3436,7 +3436,7 @@ Mixin to define padding per viewport and column number
         height: 64px;
         background-size: 63px 64px;
         background-repeat: no-repeat;
-        background-image: url(./images/flex_icon_environment_large.png?1693530711288);
+        background-image: url(../images/flex_icon_environment_large.png?1693530711288);
       }
 
       .image-icon_iphone15promax_camera_elevated {
@@ -3444,7 +3444,7 @@ Mixin to define padding per viewport and column number
         height: 39px;
         background-size: 38px 39px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone15promax_camera_elevated_large.png?1693530711288);
+        background-image: url(../images/icon_iphone15promax_camera_elevated_large.png?1693530711288);
       }
 
       .image-header_iphone_xs_silver {
@@ -3452,7 +3452,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_xs_silver_large.png?1693530711289);
+        background-image: url(../images/header_iphone_xs_silver_large.png?1693530711289);
       }
 
       .image-check_d1112b_34_R {
@@ -3460,7 +3460,7 @@ Mixin to define padding per viewport and column number
         height: 14px;
         background-size: 15px 14px;
         background-repeat: no-repeat;
-        background-image: url(./images/check_d1112b_34_R_large.png?1693530711289);
+        background-image: url(../images/check_d1112b_34_R_large.png?1693530711289);
       }
 
       .image-icon_iphone_15_pro_max_zoom {
@@ -3468,7 +3468,7 @@ Mixin to define padding per viewport and column number
         height: 20px;
         background-size: 77px 20px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone_15_pro_max_zoom_large.png?1693530711289);
+        background-image: url(../images/icon_iphone_15_pro_max_zoom_large.png?1693530711289);
       }
 
       .image-header_iphone_6_space_gray {
@@ -3476,7 +3476,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_6_space_gray_large.png?1693530711289);
+        background-image: url(../images/header_iphone_6_space_gray_large.png?1693530711289);
       }
 
       .image-icon_chip_a13_elevated {
@@ -3484,7 +3484,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_chip_a13_elevated_large.png?1693530711289);
+        background-image: url(../images/icon_chip_a13_elevated_large.png?1693530711289);
       }
 
       .image-icon_iphone_1_layer_3d_elevated {
@@ -3492,7 +3492,7 @@ Mixin to define padding per viewport and column number
         height: 34px;
         background-size: 44px 34px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone_1_layer_3d_elevated_large.png?1693530711289);
+        background-image: url(../images/icon_iphone_1_layer_3d_elevated_large.png?1693530711289);
       }
 
       .image-header_iphone_14_blue {
@@ -3500,7 +3500,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_14_blue_large.png?1693530711289);
+        background-image: url(../images/header_iphone_14_blue_large.png?1693530711289);
       }
 
       .image-header_iphone_7_plus_black {
@@ -3508,7 +3508,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_7_plus_black_large.png?1693530711289);
+        background-image: url(../images/header_iphone_7_plus_black_large.png?1693530711289);
       }
 
       .image-portrait_mode {
@@ -3516,7 +3516,7 @@ Mixin to define padding per viewport and column number
         height: 341px;
         background-size: 268px 341px;
         background-repeat: no-repeat;
-        background-image: url(./images/portrait_mode_large.png?1693530711289);
+        background-image: url(../images/portrait_mode_large.png?1693530711289);
       }
 
       .image-header_iphone_se_space_gray {
@@ -3524,7 +3524,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_se_space_gray_large.png?1693530711289);
+        background-image: url(../images/header_iphone_se_space_gray_large.png?1693530711289);
       }
 
       .image-icon_iphone11pro_camera_elevated {
@@ -3532,7 +3532,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 39px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone11pro_camera_elevated_large.png?1693530711289);
+        background-image: url(../images/icon_iphone11pro_camera_elevated_large.png?1693530711289);
       }
 
       .image-icon_chip_a16_elevated {
@@ -3540,7 +3540,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_chip_a16_elevated_large.png?1693530711290);
+        background-image: url(../images/icon_chip_a16_elevated_large.png?1693530711290);
       }
 
       .image-flex_applecare {
@@ -3548,7 +3548,7 @@ Mixin to define padding per viewport and column number
         height: 307px;
         background-size: 275px 307px;
         background-repeat: no-repeat;
-        background-image: url(./images/flex_applecare_large.png?1693530711290);
+        background-image: url(../images/flex_applecare_large.png?1693530711290);
       }
 
       .image-header_iphone_11_pro_midnight_green {
@@ -3556,7 +3556,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_11_pro_midnight_green_large.png?1693530711290);
+        background-image: url(../images/header_iphone_11_pro_midnight_green_large.png?1693530711290);
       }
 
       .image-icon_iphone14plus_camera_elevated {
@@ -3564,7 +3564,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone14plus_camera_elevated_large.png?1693530711290);
+        background-image: url(../images/icon_iphone14plus_camera_elevated_large.png?1693530711290);
       }
 
       .image-icon_port_usb_c_elevated {
@@ -3572,7 +3572,7 @@ Mixin to define padding per viewport and column number
         height: 19px;
         background-size: 49px 19px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_port_usb_c_elevated_large.png?1693530711290);
+        background-image: url(../images/icon_port_usb_c_elevated_large.png?1693530711290);
       }
 
       .image-header_iphone_xr_blue {
@@ -3580,7 +3580,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_xr_blue_large.png?1693530711290);
+        background-image: url(../images/header_iphone_xr_blue_large.png?1693530711290);
       }
 
       .image-header_iphone_15_plus_pink {
@@ -3588,7 +3588,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_15_plus_pink_large.png?1693530711290);
+        background-image: url(../images/header_iphone_15_plus_pink_large.png?1693530711290);
       }
 
       .image-flex_icon_accessibility_elevated {
@@ -3596,7 +3596,7 @@ Mixin to define padding per viewport and column number
         height: 42px;
         background-size: 42px 42px;
         background-repeat: no-repeat;
-        background-image: url(./images/flex_icon_accessibility_elevated_large.png?1693530711290);
+        background-image: url(../images/flex_icon_accessibility_elevated_large.png?1693530711290);
       }
 
       .image-header_iphone_13_pro_max_sierra_blue {
@@ -3604,7 +3604,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_13_pro_max_sierra_blue_large.png?1693530711290);
+        background-image: url(../images/header_iphone_13_pro_max_sierra_blue_large.png?1693530711290);
       }
 
       .image-header_iphone_14_pro_max_twilight_purple {
@@ -3612,7 +3612,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_14_pro_max_twilight_purple_large.png?1693530711290);
+        background-image: url(../images/header_iphone_14_pro_max_twilight_purple_large.png?1693530711290);
       }
 
       .image-header_iphone_14_pro_twilight_purple {
@@ -3620,7 +3620,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_14_pro_twilight_purple_large.png?1693530711290);
+        background-image: url(../images/header_iphone_14_pro_twilight_purple_large.png?1693530711290);
       }
 
       .image-header_iphone_13_pro_sierra_blue {
@@ -3628,7 +3628,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_13_pro_sierra_blue_large.png?1693530711291);
+        background-image: url(../images/header_iphone_13_pro_sierra_blue_large.png?1693530711291);
       }
 
       .image-dynamic_island {
@@ -3636,7 +3636,7 @@ Mixin to define padding per viewport and column number
         height: 471px;
         background-size: 355px 471px;
         background-repeat: no-repeat;
-        background-image: url(./images/dynamic_island_large.png?1693530711291);
+        background-image: url(../images/dynamic_island_large.png?1693530711291);
       }
 
       .image-color {
@@ -3644,7 +3644,7 @@ Mixin to define padding per viewport and column number
         height: 297px;
         background-size: 370px 297px;
         background-repeat: no-repeat;
-        background-image: url(./images/color_large.png?1693530711291);
+        background-image: url(../images/color_large.png?1693530711291);
       }
 
       .image-icon_iphone_15_plus_zoom {
@@ -3652,7 +3652,7 @@ Mixin to define padding per viewport and column number
         height: 20px;
         background-size: 58px 20px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone_15_plus_zoom_large.png?1693530711291);
+        background-image: url(../images/icon_iphone_15_plus_zoom_large.png?1693530711291);
       }
 
       .image-icon_dynamicisland_elevated {
@@ -3660,7 +3660,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_dynamicisland_elevated_large.png?1693530711291);
+        background-image: url(../images/icon_dynamicisland_elevated_large.png?1693530711291);
       }
 
       .image-header_iphone_12_mini_purple {
@@ -3668,7 +3668,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_12_mini_purple_large.png?1693530711292);
+        background-image: url(../images/header_iphone_12_mini_purple_large.png?1693530711292);
       }
 
       .image-header_iphone_11_pro_max_midnight_green {
@@ -3676,7 +3676,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_11_pro_max_midnight_green_large.png?1693530711292);
+        background-image: url(../images/header_iphone_11_pro_max_midnight_green_large.png?1693530711292);
       }
 
       .image-header_iphone_6s_plus_space_gray {
@@ -3684,7 +3684,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_6s_plus_space_gray_large.png?1693530711292);
+        background-image: url(../images/header_iphone_6s_plus_space_gray_large.png?1693530711292);
       }
 
       .image-icon_chip_a10_elevated {
@@ -3692,7 +3692,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_chip_a10_elevated_large.png?1693530711292);
+        background-image: url(../images/icon_chip_a10_elevated_large.png?1693530711292);
       }
 
       .image-icon_iphone_xs_max_zoom {
@@ -3700,7 +3700,7 @@ Mixin to define padding per viewport and column number
         height: 20px;
         background-size: 39px 20px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone_xs_max_zoom_large.png?1693530711292);
+        background-image: url(../images/icon_iphone_xs_max_zoom_large.png?1693530711292);
       }
 
       .image-battery {
@@ -3708,7 +3708,7 @@ Mixin to define padding per viewport and column number
         height: 237px;
         background-size: 480px 237px;
         background-repeat: no-repeat;
-        background-image: url(./images/battery_large.png?1693530711292);
+        background-image: url(../images/battery_large.png?1693530711292);
       }
 
       .image-icon_iphone11_camera_elevated {
@@ -3716,7 +3716,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 39px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone11_camera_elevated_large.png?1693530711292);
+        background-image: url(../images/icon_iphone11_camera_elevated_large.png?1693530711292);
       }
 
       .image-flex_for_all {
@@ -3724,7 +3724,7 @@ Mixin to define padding per viewport and column number
         height: 249px;
         background-size: 303px 249px;
         background-repeat: no-repeat;
-        background-image: url(./images/flex_for_all_large.png?1693530711292);
+        background-image: url(../images/flex_for_all_large.png?1693530711292);
       }
 
       .image-flex_logo_apple_tv_plus {
@@ -3732,7 +3732,7 @@ Mixin to define padding per viewport and column number
         height: 19px;
         background-size: 45px 19px;
         background-repeat: no-repeat;
-        background-image: url(./images/flex_logo_apple_tv_plus_large.png?1693530711293);
+        background-image: url(../images/flex_logo_apple_tv_plus_large.png?1693530711293);
       }
 
       .image-flex_apple_tv_plus {
@@ -3740,7 +3740,7 @@ Mixin to define padding per viewport and column number
         height: 362px;
         background-size: 273px 362px;
         background-repeat: no-repeat;
-        background-image: url(./images/flex_apple_tv_plus_large.png?1693530711293);
+        background-image: url(../images/flex_apple_tv_plus_large.png?1693530711293);
       }
 
       .image-header_iphone_13_mini_pink {
@@ -3748,7 +3748,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_13_mini_pink_large.png?1693530711293);
+        background-image: url(../images/header_iphone_13_mini_pink_large.png?1693530711293);
       }
 
       .image-icon_iphone12_camera_elevated {
@@ -3756,7 +3756,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 39px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone12_camera_elevated_large.png?1693530711293);
+        background-image: url(../images/icon_iphone12_camera_elevated_large.png?1693530711293);
       }
 
       .image-icon_iphonexs_camera_elevated {
@@ -3764,7 +3764,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphonexs_camera_elevated_large.png?1693530711293);
+        background-image: url(../images/icon_iphonexs_camera_elevated_large.png?1693530711293);
       }
 
       .image-hero_logo {
@@ -3772,7 +3772,7 @@ Mixin to define padding per viewport and column number
         height: 33px;
         background-size: 144px 33px;
         background-repeat: no-repeat;
-        background-image: url(./images/hero_logo_large.png?1693530711293);
+        background-image: url(../images/hero_logo_large.png?1693530711293);
       }
 
       .image-icon_iphonese_gen3_camera_elevated {
@@ -3780,7 +3780,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphonese_gen3_camera_elevated_large.png?1693530711293);
+        background-image: url(../images/icon_iphonese_gen3_camera_elevated_large.png?1693530711293);
       }
 
       .image-icon_chip_a17pro_elevated_elevated {
@@ -3788,7 +3788,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_chip_a17pro_elevated_elevated_large.png?1693530711293);
+        background-image: url(../images/icon_chip_a17pro_elevated_elevated_large.png?1693530711293);
       }
 
       .image-header_iphone_12_pro_max_pacific_blue {
@@ -3796,7 +3796,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_12_pro_max_pacific_blue_large.png?1693530711293);
+        background-image: url(../images/header_iphone_12_pro_max_pacific_blue_large.png?1693530711293);
       }
 
       .image-header_iphone_12_pro_pacific_blue {
@@ -3804,7 +3804,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_12_pro_pacific_blue_large.png?1693530711293);
+        background-image: url(../images/header_iphone_12_pro_pacific_blue_large.png?1693530711293);
       }
 
       .image-icon_iphone_14_plus_zoom {
@@ -3812,7 +3812,7 @@ Mixin to define padding per viewport and column number
         height: 20px;
         background-size: 39px 20px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone_14_plus_zoom_large.png?1693530711293);
+        background-image: url(../images/icon_iphone_14_plus_zoom_large.png?1693530711293);
       }
 
       .image-icon_faceid_elevated {
@@ -3820,7 +3820,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 39px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_faceid_elevated_large.png?1693530711293);
+        background-image: url(../images/icon_faceid_elevated_large.png?1693530711293);
       }
 
       .image-icon_1x {
@@ -3828,7 +3828,7 @@ Mixin to define padding per viewport and column number
         height: 20px;
         background-size: 20px 20px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_1x_large.png?1693530711293);
+        background-image: url(../images/icon_1x_large.png?1693530711293);
       }
 
       .image-icon_chip_a8_elevated {
@@ -3836,7 +3836,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 39px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_chip_a8_elevated_large.png?1693530711293);
+        background-image: url(../images/icon_chip_a8_elevated_large.png?1693530711293);
       }
 
       .image-icon_chip_a12_elevated {
@@ -3844,7 +3844,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_chip_a12_elevated_large.png?1693530711293);
+        background-image: url(../images/icon_chip_a12_elevated_large.png?1693530711293);
       }
 
       .image-flex_privacy_final {
@@ -3852,7 +3852,7 @@ Mixin to define padding per viewport and column number
         height: 244px;
         background-size: 312px 244px;
         background-repeat: no-repeat;
-        background-image: url(./images/flex_privacy_final_large.png?1693530711293);
+        background-image: url(../images/flex_privacy_final_large.png?1693530711293);
       }
 
       .image-icon_4g_radiowaves_elevated {
@@ -3860,7 +3860,7 @@ Mixin to define padding per viewport and column number
         height: 35px;
         background-size: 49px 35px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_4g_radiowaves_elevated_large.png?1693530711293);
+        background-image: url(../images/icon_4g_radiowaves_elevated_large.png?1693530711293);
       }
 
       .image-a16_bionic {
@@ -3868,7 +3868,7 @@ Mixin to define padding per viewport and column number
         height: 252px;
         background-size: 252px 252px;
         background-repeat: no-repeat;
-        background-image: url(./images/a16_bionic_large.png?1693530711293);
+        background-image: url(../images/a16_bionic_large.png?1693530711293);
       }
 
       .image-flex_icon_apple_logo_lock_elevated {
@@ -3876,7 +3876,7 @@ Mixin to define padding per viewport and column number
         height: 42px;
         background-size: 32px 42px;
         background-repeat: no-repeat;
-        background-image: url(./images/flex_icon_apple_logo_lock_elevated_large.png?1693530711293);
+        background-image: url(../images/flex_icon_apple_logo_lock_elevated_large.png?1693530711293);
       }
 
       .image-icon_iphone_15_pro_zoom {
@@ -3884,7 +3884,7 @@ Mixin to define padding per viewport and column number
         height: 20px;
         background-size: 77px 20px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone_15_pro_zoom_large.png?1693530711293);
+        background-image: url(../images/icon_iphone_15_pro_zoom_large.png?1693530711293);
       }
 
       .image-header_iphone_se_gen02_black {
@@ -3892,7 +3892,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_se_gen02_black_large.png?1693530711293);
+        background-image: url(../images/header_iphone_se_gen02_black_large.png?1693530711293);
       }
 
       .image-icon_touchid_elevated {
@@ -3900,7 +3900,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 39px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_touchid_elevated_large.png?1693530711294);
+        background-image: url(../images/icon_touchid_elevated_large.png?1693530711294);
       }
 
       .image-header_iphone_12_purple {
@@ -3908,7 +3908,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_12_purple_large.png?1693530711294);
+        background-image: url(../images/header_iphone_12_purple_large.png?1693530711294);
       }
 
       .image-icon_chip_a9_elevated {
@@ -3916,7 +3916,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_chip_a9_elevated_large.png?1693530711294);
+        background-image: url(../images/icon_chip_a9_elevated_large.png?1693530711294);
       }
 
       .image-icon_chip_a15_elevated {
@@ -3924,7 +3924,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_chip_a15_elevated_large.png?1693530711294);
+        background-image: url(../images/icon_chip_a15_elevated_large.png?1693530711294);
       }
 
       .image-icon_iphone6splus_camera_elevated {
@@ -3932,7 +3932,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 38px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone6splus_camera_elevated_large.png?1693530711294);
+        background-image: url(../images/icon_iphone6splus_camera_elevated_large.png?1693530711294);
       }
 
       .image-header_iphone_x_silver {
@@ -3940,7 +3940,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_x_silver_large.png?1693530711294);
+        background-image: url(../images/header_iphone_x_silver_large.png?1693530711294);
       }
 
       .image-flex_magsafe {
@@ -3948,7 +3948,7 @@ Mixin to define padding per viewport and column number
         height: 337px;
         background-size: 417px 337px;
         background-repeat: no-repeat;
-        background-image: url(./images/flex_magsafe_large.png?1693530711294);
+        background-image: url(../images/flex_magsafe_large.png?1693530711294);
       }
 
       .image-header_iphone_6s_space_gray {
@@ -3956,7 +3956,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_6s_space_gray_large.png?1693530711294);
+        background-image: url(../images/header_iphone_6s_space_gray_large.png?1693530711294);
       }
 
       .image-header_iphone_8_silver {
@@ -3964,7 +3964,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_8_silver_large.png?1693530711294);
+        background-image: url(../images/header_iphone_8_silver_large.png?1693530711294);
       }
 
       .image-icon_iphone15_camera_elevated {
@@ -3972,7 +3972,7 @@ Mixin to define padding per viewport and column number
         height: 39px;
         background-size: 38px 39px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone15_camera_elevated_large.png?1693530711294);
+        background-image: url(../images/icon_iphone15_camera_elevated_large.png?1693530711294);
       }
 
       .image-header_iphone_15_pro_tigry {
@@ -3980,7 +3980,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_15_pro_tigry_large.png?1693530711294);
+        background-image: url(../images/header_iphone_15_pro_tigry_large.png?1693530711294);
       }
 
       .image-header_iphone_se_gen03_midnight {
@@ -3988,7 +3988,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_se_gen03_midnight_large.png?1693530711294);
+        background-image: url(../images/header_iphone_se_gen03_midnight_large.png?1693530711294);
       }
 
       .image-icon_iphone12pro_camera_elevated {
@@ -3996,7 +3996,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 39px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_iphone12pro_camera_elevated_large.png?1693530711294);
+        background-image: url(../images/icon_iphone12pro_camera_elevated_large.png?1693530711294);
       }
 
       .image-header_iphone_11_purple {
@@ -4004,7 +4004,7 @@ Mixin to define padding per viewport and column number
         height: 213px;
         background-size: 172px 213px;
         background-repeat: no-repeat;
-        background-image: url(./images/header_iphone_11_purple_large.png?1693530711295);
+        background-image: url(../images/header_iphone_11_purple_large.png?1693530711295);
       }
 
       .image-icon_5g_radiowaves_elevated {
@@ -4012,7 +4012,7 @@ Mixin to define padding per viewport and column number
         height: 35px;
         background-size: 49px 35px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_5g_radiowaves_elevated_large.png?1693530711295);
+        background-image: url(../images/icon_5g_radiowaves_elevated_large.png?1693530711295);
       }
 
       .image-flex_icon_iphone_and_iphone_elevated {
@@ -4020,7 +4020,7 @@ Mixin to define padding per viewport and column number
         height: 48px;
         background-size: 34px 48px;
         background-repeat: no-repeat;
-        background-image: url(./images/flex_icon_iphone_and_iphone_elevated_large.png?1693530711295);
+        background-image: url(../images/flex_icon_iphone_and_iphone_elevated_large.png?1693530711295);
       }
 
       .image-icon_chip_a11_elevated {
@@ -4028,7 +4028,7 @@ Mixin to define padding per viewport and column number
         height: 38px;
         background-size: 39px 38px;
         background-repeat: no-repeat;
-        background-image: url(./images/icon_chip_a11_elevated_large.png?1693530711295);
+        background-image: url(../images/icon_chip_a11_elevated_large.png?1693530711295);
       }
 
       @media (-webkit-min-device-pixel-ratio:1.5),
@@ -4040,7 +4040,7 @@ Mixin to define padding per viewport and column number
           height: 19px;
           background-size: 45px 19px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_logo_apple_tv_plus_large_2x.png?1693530711286);
+          background-image: url(../images/flex_logo_apple_tv_plus_large_2x.png?1693530711286);
         }
       }
 
@@ -4053,7 +4053,7 @@ Mixin to define padding per viewport and column number
           height: 14px;
           background-size: 15px 14px;
           background-repeat: no-repeat;
-          background-image: url(./images/check_d1112b_34_R_large_2x.png?1693530711286);
+          background-image: url(../images/check_d1112b_34_R_large_2x.png?1693530711286);
         }
       }
 
@@ -4066,7 +4066,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_dynamicisland_elevated_large_2x.png?1693530711286);
+          background-image: url(../images/icon_dynamicisland_elevated_large_2x.png?1693530711286);
         }
       }
 
@@ -4079,7 +4079,7 @@ Mixin to define padding per viewport and column number
           height: 19px;
           background-size: 49px 19px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_port_usb_c_elevated_large_2x.png?1693530711286);
+          background-image: url(../images/icon_port_usb_c_elevated_large_2x.png?1693530711286);
         }
       }
 
@@ -4092,7 +4092,7 @@ Mixin to define padding per viewport and column number
           height: 297px;
           background-size: 370px 297px;
           background-repeat: no-repeat;
-          background-image: url(./images/color_large_2x.png?1693530711286);
+          background-image: url(../images/color_large_2x.png?1693530711286);
         }
       }
 
@@ -4105,7 +4105,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_15_pro_max_tigry_large_2x.png?1693530711286);
+          background-image: url(../images/header_iphone_15_pro_max_tigry_large_2x.png?1693530711286);
         }
       }
 
@@ -4118,7 +4118,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphonexs_camera_elevated_large_2x.png?1693530711286);
+          background-image: url(../images/icon_iphonexs_camera_elevated_large_2x.png?1693530711286);
         }
       }
 
@@ -4131,7 +4131,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_14_plus_blue_large_2x.png?1693530711286);
+          background-image: url(../images/header_iphone_14_plus_blue_large_2x.png?1693530711286);
         }
       }
 
@@ -4144,7 +4144,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 39px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone11pro_camera_elevated_large_2x.png?1693530711286);
+          background-image: url(../images/icon_iphone11pro_camera_elevated_large_2x.png?1693530711286);
         }
       }
 
@@ -4157,7 +4157,7 @@ Mixin to define padding per viewport and column number
           height: 337px;
           background-size: 417px 337px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_magsafe_large_2x.png?1693530711287);
+          background-image: url(../images/flex_magsafe_large_2x.png?1693530711287);
         }
       }
 
@@ -4170,7 +4170,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 39px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone12pro_camera_elevated_large_2x.png?1693530711287);
+          background-image: url(../images/icon_iphone12pro_camera_elevated_large_2x.png?1693530711287);
         }
       }
 
@@ -4183,7 +4183,7 @@ Mixin to define padding per viewport and column number
           height: 34px;
           background-size: 44px 34px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone_1_layer_3d_elevated_large_2x.png?1693530711287);
+          background-image: url(../images/icon_iphone_1_layer_3d_elevated_large_2x.png?1693530711287);
         }
       }
 
@@ -4196,7 +4196,7 @@ Mixin to define padding per viewport and column number
           height: 301px;
           background-size: 164px 301px;
           background-repeat: no-repeat;
-          background-image: url(./images/display_size_large_2x.png?1693530711287);
+          background-image: url(../images/display_size_large_2x.png?1693530711287);
         }
       }
 
@@ -4209,7 +4209,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphonese_gen3_camera_elevated_large_2x.png?1693530711287);
+          background-image: url(../images/icon_iphonese_gen3_camera_elevated_large_2x.png?1693530711287);
         }
       }
 
@@ -4222,7 +4222,7 @@ Mixin to define padding per viewport and column number
           height: 462px;
           background-size: 2154px 462px;
           background-repeat: no-repeat;
-          background-image: url(./images/hero_large_2x.png?1693530711287);
+          background-image: url(../images/hero_large_2x.png?1693530711287);
         }
       }
 
@@ -4235,7 +4235,7 @@ Mixin to define padding per viewport and column number
           height: 20px;
           background-size: 39px 20px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone_14_plus_zoom_large_2x.png?1693530711287);
+          background-image: url(../images/icon_iphone_14_plus_zoom_large_2x.png?1693530711287);
         }
       }
 
@@ -4248,7 +4248,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone14pro_camera_elevated_large_2x.png?1693530711287);
+          background-image: url(../images/icon_iphone14pro_camera_elevated_large_2x.png?1693530711287);
         }
       }
 
@@ -4261,7 +4261,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone14plus_camera_elevated_large_2x.png?1693530711287);
+          background-image: url(../images/icon_iphone14plus_camera_elevated_large_2x.png?1693530711287);
         }
       }
 
@@ -4274,7 +4274,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_camera_iphone_6s_plus_large_2x.png?1693530711288);
+          background-image: url(../images/icon_camera_iphone_6s_plus_large_2x.png?1693530711288);
         }
       }
 
@@ -4287,7 +4287,7 @@ Mixin to define padding per viewport and column number
           height: 20px;
           background-size: 77px 20px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone_15_pro_max_zoom_large_2x.png?1693530711288);
+          background-image: url(../images/icon_iphone_15_pro_max_zoom_large_2x.png?1693530711288);
         }
       }
 
@@ -4300,7 +4300,7 @@ Mixin to define padding per viewport and column number
           height: 422px;
           background-size: 526px 422px;
           background-repeat: no-repeat;
-          background-image: url(./images/usb-c_large_2x.png?1693530711288);
+          background-image: url(../images/usb-c_large_2x.png?1693530711288);
         }
       }
 
@@ -4313,7 +4313,7 @@ Mixin to define padding per viewport and column number
           height: 362px;
           background-size: 273px 362px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_apple_tv_plus_large_2x.png?1693530711288);
+          background-image: url(../images/flex_apple_tv_plus_large_2x.png?1693530711288);
         }
       }
 
@@ -4326,7 +4326,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_chip_a9_elevated_large_2x.png?1693530711288);
+          background-image: url(../images/icon_chip_a9_elevated_large_2x.png?1693530711288);
         }
       }
 
@@ -4339,7 +4339,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_chip_a10_elevated_large_2x.png?1693530711288);
+          background-image: url(../images/icon_chip_a10_elevated_large_2x.png?1693530711288);
         }
       }
 
@@ -4352,7 +4352,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_13_pro_max_sierra_blue_large_2x.png?1693530711288);
+          background-image: url(../images/header_iphone_13_pro_max_sierra_blue_large_2x.png?1693530711288);
         }
       }
 
@@ -4365,7 +4365,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_12_purple_large_2x.png?1693530711288);
+          background-image: url(../images/header_iphone_12_purple_large_2x.png?1693530711288);
         }
       }
 
@@ -4378,7 +4378,7 @@ Mixin to define padding per viewport and column number
           height: 20px;
           background-size: 58px 20px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone_13_pro_zoom_large_2x.png?1693530711288);
+          background-image: url(../images/icon_iphone_13_pro_zoom_large_2x.png?1693530711288);
         }
       }
 
@@ -4391,7 +4391,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_chip_a14_elevated_large_2x.png?1693530711288);
+          background-image: url(../images/icon_chip_a14_elevated_large_2x.png?1693530711288);
         }
       }
 
@@ -4404,7 +4404,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_13_pro_sierra_blue_large_2x.png?1693530711288);
+          background-image: url(../images/header_iphone_13_pro_sierra_blue_large_2x.png?1693530711288);
         }
       }
 
@@ -4417,7 +4417,7 @@ Mixin to define padding per viewport and column number
           height: 18px;
           background-size: 56px 18px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone_12_pro_max_zoom_large_2x.png?1693530711288);
+          background-image: url(../images/icon_iphone_12_pro_max_zoom_large_2x.png?1693530711288);
         }
       }
 
@@ -4430,7 +4430,7 @@ Mixin to define padding per viewport and column number
           height: 39px;
           background-size: 38px 39px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone15promax_camera_elevated_large_2x.png?1693530711288);
+          background-image: url(../images/icon_iphone15promax_camera_elevated_large_2x.png?1693530711288);
         }
       }
 
@@ -4443,7 +4443,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 39px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone13pro_camera_elevated_large_2x.png?1693530711288);
+          background-image: url(../images/icon_iphone13pro_camera_elevated_large_2x.png?1693530711288);
         }
       }
 
@@ -4456,7 +4456,7 @@ Mixin to define padding per viewport and column number
           height: 20px;
           background-size: 77px 20px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone_15_pro_zoom_large_2x.png?1693530711289);
+          background-image: url(../images/icon_iphone_15_pro_zoom_large_2x.png?1693530711289);
         }
       }
 
@@ -4469,7 +4469,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_xs_silver_large_2x.png?1693530711289);
+          background-image: url(../images/header_iphone_xs_silver_large_2x.png?1693530711289);
         }
       }
 
@@ -4482,7 +4482,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_15_pink_large_2x.png?1693530711289);
+          background-image: url(../images/header_iphone_15_pink_large_2x.png?1693530711289);
         }
       }
 
@@ -4495,7 +4495,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_13_pink_large_2x.png?1693530711289);
+          background-image: url(../images/header_iphone_13_pink_large_2x.png?1693530711289);
         }
       }
 
@@ -4508,7 +4508,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_6s_space_gray_large_2x.png?1693530711289);
+          background-image: url(../images/header_iphone_6s_space_gray_large_2x.png?1693530711289);
         }
       }
 
@@ -4521,7 +4521,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 39px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_touchid_elevated_large_2x.png?1693530711289);
+          background-image: url(../images/icon_touchid_elevated_large_2x.png?1693530711289);
         }
       }
 
@@ -4534,7 +4534,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone6splus_camera_elevated_large_2x.png?1693530711289);
+          background-image: url(../images/icon_iphone6splus_camera_elevated_large_2x.png?1693530711289);
         }
       }
 
@@ -4547,7 +4547,7 @@ Mixin to define padding per viewport and column number
           height: 33px;
           background-size: 144px 33px;
           background-repeat: no-repeat;
-          background-image: url(./images/hero_logo_large_2x.png?1693530711289);
+          background-image: url(../images/hero_logo_large_2x.png?1693530711289);
         }
       }
 
@@ -4560,7 +4560,7 @@ Mixin to define padding per viewport and column number
           height: 252px;
           background-size: 252px 252px;
           background-repeat: no-repeat;
-          background-image: url(./images/a16_bionic_large_2x.png?1693530711289);
+          background-image: url(../images/a16_bionic_large_2x.png?1693530711289);
         }
       }
 
@@ -4573,7 +4573,7 @@ Mixin to define padding per viewport and column number
           height: 500px;
           background-size: 647px 500px;
           background-repeat: no-repeat;
-          background-image: url(./images/roadside_assistance_large_2x.png?1693530711289);
+          background-image: url(../images/roadside_assistance_large_2x.png?1693530711289);
         }
       }
 
@@ -4586,7 +4586,7 @@ Mixin to define padding per viewport and column number
           height: 42px;
           background-size: 42px 42px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_accessibility_elevated_large_2x.png?1693530711290);
+          background-image: url(../images/flex_icon_accessibility_elevated_large_2x.png?1693530711290);
         }
       }
 
@@ -4599,7 +4599,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 39px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_faceid_elevated_large_2x.png?1693530711290);
+          background-image: url(../images/icon_faceid_elevated_large_2x.png?1693530711290);
         }
       }
 
@@ -4612,7 +4612,7 @@ Mixin to define padding per viewport and column number
           height: 42px;
           background-size: 42px 42px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_sos_circle_elevated_large_2x.png?1693530711290);
+          background-image: url(../images/icon_sos_circle_elevated_large_2x.png?1693530711290);
         }
       }
 
@@ -4625,7 +4625,7 @@ Mixin to define padding per viewport and column number
           height: 48px;
           background-size: 34px 48px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_iphone_and_iphone_elevated_large_2x.png?1693530711290);
+          background-image: url(../images/flex_icon_iphone_and_iphone_elevated_large_2x.png?1693530711290);
         }
       }
 
@@ -4638,7 +4638,7 @@ Mixin to define padding per viewport and column number
           height: 35px;
           background-size: 49px 35px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_5g_radiowaves_elevated_large_2x.png?1693530711290);
+          background-image: url(../images/icon_5g_radiowaves_elevated_large_2x.png?1693530711290);
         }
       }
 
@@ -4651,7 +4651,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_12_pro_max_pacific_blue_large_2x.png?1693530711290);
+          background-image: url(../images/header_iphone_12_pro_max_pacific_blue_large_2x.png?1693530711290);
         }
       }
 
@@ -4664,7 +4664,7 @@ Mixin to define padding per viewport and column number
           height: 341px;
           background-size: 268px 341px;
           background-repeat: no-repeat;
-          background-image: url(./images/portrait_mode_large_2x.png?1693530711290);
+          background-image: url(../images/portrait_mode_large_2x.png?1693530711290);
         }
       }
 
@@ -4677,7 +4677,7 @@ Mixin to define padding per viewport and column number
           height: 307px;
           background-size: 275px 307px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_applecare_large_2x.png?1693530711290);
+          background-image: url(../images/flex_applecare_large_2x.png?1693530711290);
         }
       }
 
@@ -4690,7 +4690,7 @@ Mixin to define padding per viewport and column number
           height: 471px;
           background-size: 355px 471px;
           background-repeat: no-repeat;
-          background-image: url(./images/dynamic_island_large_2x.png?1693530711290);
+          background-image: url(../images/dynamic_island_large_2x.png?1693530711290);
         }
       }
 
@@ -4703,7 +4703,7 @@ Mixin to define padding per viewport and column number
           height: 35px;
           background-size: 49px 35px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_4g_radiowaves_elevated_large_2x.png?1693530711291);
+          background-image: url(../images/icon_4g_radiowaves_elevated_large_2x.png?1693530711291);
         }
       }
 
@@ -4716,7 +4716,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_x_silver_large_2x.png?1693530711291);
+          background-image: url(../images/header_iphone_x_silver_large_2x.png?1693530711291);
         }
       }
 
@@ -4729,7 +4729,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_xs_max_silver_large_2x.png?1693530711291);
+          background-image: url(../images/header_iphone_xs_max_silver_large_2x.png?1693530711291);
         }
       }
 
@@ -4742,7 +4742,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_14_blue_large_2x.png?1693530711291);
+          background-image: url(../images/header_iphone_14_blue_large_2x.png?1693530711291);
         }
       }
 
@@ -4755,7 +4755,7 @@ Mixin to define padding per viewport and column number
           height: 20px;
           background-size: 39px 20px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone_xs_max_zoom_large_2x.png?1693530711291);
+          background-image: url(../images/icon_iphone_xs_max_zoom_large_2x.png?1693530711291);
         }
       }
 
@@ -4768,7 +4768,7 @@ Mixin to define padding per viewport and column number
           height: 26px;
           background-size: 48px 26px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_battery_100percent_elevated_large_2x.png?1693530711291);
+          background-image: url(../images/icon_battery_100percent_elevated_large_2x.png?1693530711291);
         }
       }
 
@@ -4781,7 +4781,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_chip_a16_elevated_large_2x.png?1693530711291);
+          background-image: url(../images/icon_chip_a16_elevated_large_2x.png?1693530711291);
         }
       }
 
@@ -4794,7 +4794,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_6_space_gray_large_2x.png?1693530711291);
+          background-image: url(../images/header_iphone_6_space_gray_large_2x.png?1693530711291);
         }
       }
 
@@ -4807,7 +4807,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_7_plus_black_large_2x.png?1693530711291);
+          background-image: url(../images/header_iphone_7_plus_black_large_2x.png?1693530711291);
         }
       }
 
@@ -4820,7 +4820,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_xr_blue_large_2x.png?1693530711291);
+          background-image: url(../images/header_iphone_xr_blue_large_2x.png?1693530711291);
         }
       }
 
@@ -4833,7 +4833,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_chip_a15_elevated_large_2x.png?1693530711291);
+          background-image: url(../images/icon_chip_a15_elevated_large_2x.png?1693530711291);
         }
       }
 
@@ -4846,7 +4846,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_se_space_gray_large_2x.png?1693530711291);
+          background-image: url(../images/header_iphone_se_space_gray_large_2x.png?1693530711291);
         }
       }
 
@@ -4859,7 +4859,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_chip_a13_elevated_large_2x.png?1693530711291);
+          background-image: url(../images/icon_chip_a13_elevated_large_2x.png?1693530711291);
         }
       }
 
@@ -4872,7 +4872,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_8_silver_large_2x.png?1693530711291);
+          background-image: url(../images/header_iphone_8_silver_large_2x.png?1693530711291);
         }
       }
 
@@ -4885,7 +4885,7 @@ Mixin to define padding per viewport and column number
           height: 20px;
           background-size: 58px 20px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone_15_plus_zoom_large_2x.png?1693530711292);
+          background-image: url(../images/icon_iphone_15_plus_zoom_large_2x.png?1693530711292);
         }
       }
 
@@ -4898,7 +4898,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_14_pro_twilight_purple_large_2x.png?1693530711292);
+          background-image: url(../images/header_iphone_14_pro_twilight_purple_large_2x.png?1693530711292);
         }
       }
 
@@ -4911,7 +4911,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_se_gen02_black_large_2x.png?1693530711292);
+          background-image: url(../images/header_iphone_se_gen02_black_large_2x.png?1693530711292);
         }
       }
 
@@ -4924,7 +4924,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 49px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_ios_large_2x.png?1693530711292);
+          background-image: url(../images/flex_icon_ios_large_2x.png?1693530711292);
         }
       }
 
@@ -4937,7 +4937,7 @@ Mixin to define padding per viewport and column number
           height: 249px;
           background-size: 303px 249px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_for_all_large_2x.png?1693530711292);
+          background-image: url(../images/flex_for_all_large_2x.png?1693530711292);
         }
       }
 
@@ -4950,7 +4950,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_6s_plus_space_gray_large_2x.png?1693530711292);
+          background-image: url(../images/header_iphone_6s_plus_space_gray_large_2x.png?1693530711292);
         }
       }
 
@@ -4963,7 +4963,7 @@ Mixin to define padding per viewport and column number
           height: 20px;
           background-size: 20px 20px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_1x_large_2x.png?1693530711292);
+          background-image: url(../images/icon_1x_large_2x.png?1693530711292);
         }
       }
 
@@ -4976,7 +4976,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_chip_a17pro_elevated_elevated_large_2x.png?1693530711292);
+          background-image: url(../images/icon_chip_a17pro_elevated_elevated_large_2x.png?1693530711292);
         }
       }
 
@@ -4989,7 +4989,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_14_pro_max_twilight_purple_large_2x.png?1693530711292);
+          background-image: url(../images/header_iphone_14_pro_max_twilight_purple_large_2x.png?1693530711292);
         }
       }
 
@@ -5002,7 +5002,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone8plus_camera_elevated_large_2x.png?1693530711292);
+          background-image: url(../images/icon_iphone8plus_camera_elevated_large_2x.png?1693530711292);
         }
       }
 
@@ -5015,7 +5015,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphonexr_camera_elevated_large_2x.png?1693530711293);
+          background-image: url(../images/icon_iphonexr_camera_elevated_large_2x.png?1693530711293);
         }
       }
 
@@ -5028,7 +5028,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 39px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_chip_a8_elevated_large_2x.png?1693530711293);
+          background-image: url(../images/icon_chip_a8_elevated_large_2x.png?1693530711293);
         }
       }
 
@@ -5041,7 +5041,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone13_camera_elevated_large_2x.png?1693530711293);
+          background-image: url(../images/icon_iphone13_camera_elevated_large_2x.png?1693530711293);
         }
       }
 
@@ -5054,7 +5054,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 38px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_chip_a12_elevated_large_2x.png?1693530711293);
+          background-image: url(../images/icon_chip_a12_elevated_large_2x.png?1693530711293);
         }
       }
 
@@ -5067,7 +5067,7 @@ Mixin to define padding per viewport and column number
           height: 64px;
           background-size: 63px 64px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_environment_large_2x.png?1693530711293);
+          background-image: url(../images/flex_icon_environment_large_2x.png?1693530711293);
         }
       }
 
@@ -5080,7 +5080,7 @@ Mixin to define padding per viewport and column number
           height: 19px;
           background-size: 49px 19px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_port_lightning_elevated_large_2x.png?1693530711293);
+          background-image: url(../images/icon_port_lightning_elevated_large_2x.png?1693530711293);
         }
       }
 
@@ -5093,7 +5093,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_13_mini_pink_large_2x.png?1693530711293);
+          background-image: url(../images/header_iphone_13_mini_pink_large_2x.png?1693530711293);
         }
       }
 
@@ -5106,7 +5106,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_12_pro_pacific_blue_large_2x.png?1693530711294);
+          background-image: url(../images/header_iphone_12_pro_pacific_blue_large_2x.png?1693530711294);
         }
       }
 
@@ -5119,7 +5119,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_12_mini_purple_large_2x.png?1693530711294);
+          background-image: url(../images/header_iphone_12_mini_purple_large_2x.png?1693530711294);
         }
       }
 
@@ -5132,7 +5132,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_11_pro_midnight_green_large_2x.png?1693530711294);
+          background-image: url(../images/header_iphone_11_pro_midnight_green_large_2x.png?1693530711294);
         }
       }
 
@@ -5145,7 +5145,7 @@ Mixin to define padding per viewport and column number
           height: 500px;
           background-size: 647px 500px;
           background-repeat: no-repeat;
-          background-image: url(./images/camera_large_2x.png?1693530711294);
+          background-image: url(../images/camera_large_2x.png?1693530711294);
         }
       }
 
@@ -5158,7 +5158,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_15_pro_tigry_large_2x.png?1693530711294);
+          background-image: url(../images/header_iphone_15_pro_tigry_large_2x.png?1693530711294);
         }
       }
 
@@ -5171,7 +5171,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_11_pro_max_midnight_green_large_2x.png?1693530711294);
+          background-image: url(../images/header_iphone_11_pro_max_midnight_green_large_2x.png?1693530711294);
         }
       }
 
@@ -5184,7 +5184,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 39px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone11_camera_elevated_large_2x.png?1693530711294);
+          background-image: url(../images/icon_iphone11_camera_elevated_large_2x.png?1693530711294);
         }
       }
 
@@ -5197,7 +5197,7 @@ Mixin to define padding per viewport and column number
           height: 237px;
           background-size: 480px 237px;
           background-repeat: no-repeat;
-          background-image: url(./images/battery_large_2x.png?1693530711294);
+          background-image: url(../images/battery_large_2x.png?1693530711294);
         }
       }
 
@@ -5210,7 +5210,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_se_gen03_midnight_large_2x.png?1693530711294);
+          background-image: url(../images/header_iphone_se_gen03_midnight_large_2x.png?1693530711294);
         }
       }
 
@@ -5223,7 +5223,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_7_black_large_2x.png?1693530711294);
+          background-image: url(../images/header_iphone_7_black_large_2x.png?1693530711294);
         }
       }
 
@@ -5236,7 +5236,7 @@ Mixin to define padding per viewport and column number
           height: 42px;
           background-size: 32px 42px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_apple_logo_lock_elevated_large_2x.png?1693530711294);
+          background-image: url(../images/flex_icon_apple_logo_lock_elevated_large_2x.png?1693530711294);
         }
       }
 
@@ -5249,7 +5249,7 @@ Mixin to define padding per viewport and column number
           height: 244px;
           background-size: 312px 244px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_privacy_final_large_2x.png?1693530711294);
+          background-image: url(../images/flex_privacy_final_large_2x.png?1693530711294);
         }
       }
 
@@ -5262,7 +5262,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 39px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_chip_a11_elevated_large_2x.png?1693530711294);
+          background-image: url(../images/icon_chip_a11_elevated_large_2x.png?1693530711294);
         }
       }
 
@@ -5275,7 +5275,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 39px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone12_camera_elevated_large_2x.png?1693530711294);
+          background-image: url(../images/icon_iphone12_camera_elevated_large_2x.png?1693530711294);
         }
       }
 
@@ -5288,7 +5288,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_15_plus_pink_large_2x.png?1693530711295);
+          background-image: url(../images/header_iphone_15_plus_pink_large_2x.png?1693530711295);
         }
       }
 
@@ -5301,7 +5301,7 @@ Mixin to define padding per viewport and column number
           height: 39px;
           background-size: 38px 39px;
           background-repeat: no-repeat;
-          background-image: url(./images/icon_iphone15_camera_elevated_large_2x.png?1693530711295);
+          background-image: url(../images/icon_iphone15_camera_elevated_large_2x.png?1693530711295);
         }
       }
 
@@ -5314,7 +5314,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_11_purple_large_2x.png?1693530711295);
+          background-image: url(../images/header_iphone_11_purple_large_2x.png?1693530711295);
         }
       }
 
@@ -5327,7 +5327,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_6_plus_space_gray_large_2x.png?1693530711295);
+          background-image: url(../images/header_iphone_6_plus_space_gray_large_2x.png?1693530711295);
         }
       }
 
@@ -5340,7 +5340,7 @@ Mixin to define padding per viewport and column number
           height: 213px;
           background-size: 172px 213px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_8_plus_silver_large_2x.png?1693530711295);
+          background-image: url(../images/header_iphone_8_plus_silver_large_2x.png?1693530711295);
         }
       }
 
@@ -5350,7 +5350,7 @@ Mixin to define padding per viewport and column number
           height: 218px;
           background-size: 195px 218px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_applecare_medium.png?1693530711286);
+          background-image: url(../images/flex_applecare_medium.png?1693530711286);
         }
       }
 
@@ -5360,7 +5360,7 @@ Mixin to define padding per viewport and column number
           height: 18px;
           background-size: 44px 18px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_logo_apple_tv_plus_medium.png?1693530711286);
+          background-image: url(../images/flex_logo_apple_tv_plus_medium.png?1693530711286);
         }
       }
 
@@ -5370,7 +5370,7 @@ Mixin to define padding per viewport and column number
           height: 288px;
           background-size: 306px 288px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_magsafe_medium.png?1693530711286);
+          background-image: url(../images/flex_magsafe_medium.png?1693530711286);
         }
       }
 
@@ -5380,7 +5380,7 @@ Mixin to define padding per viewport and column number
           height: 420px;
           background-size: 336px 420px;
           background-repeat: no-repeat;
-          background-image: url(./images/camera_medium.png?1693530711286);
+          background-image: url(../images/camera_medium.png?1693530711286);
         }
       }
 
@@ -5390,7 +5390,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 49px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_ios_medium.png?1693530711287);
+          background-image: url(../images/flex_icon_ios_medium.png?1693530711287);
         }
       }
 
@@ -5400,7 +5400,7 @@ Mixin to define padding per viewport and column number
           height: 279px;
           background-size: 292px 279px;
           background-repeat: no-repeat;
-          background-image: url(./images/usb-c_medium.png?1693530711288);
+          background-image: url(../images/usb-c_medium.png?1693530711288);
         }
       }
 
@@ -5410,7 +5410,7 @@ Mixin to define padding per viewport and column number
           height: 14px;
           background-size: 15px 14px;
           background-repeat: no-repeat;
-          background-image: url(./images/check_d1112b_34_R_medium.png?1693530711289);
+          background-image: url(../images/check_d1112b_34_R_medium.png?1693530711289);
         }
       }
 
@@ -5420,7 +5420,7 @@ Mixin to define padding per viewport and column number
           height: 382px;
           background-size: 245px 382px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_apple_tv_plus_medium.png?1693530711290);
+          background-image: url(../images/flex_apple_tv_plus_medium.png?1693530711290);
         }
       }
 
@@ -5430,7 +5430,7 @@ Mixin to define padding per viewport and column number
           height: 41px;
           background-size: 41px 41px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_accessibility_elevated_medium.png?1693530711291);
+          background-image: url(../images/flex_icon_accessibility_elevated_medium.png?1693530711291);
         }
       }
 
@@ -5440,7 +5440,7 @@ Mixin to define padding per viewport and column number
           height: 274px;
           background-size: 1068px 274px;
           background-repeat: no-repeat;
-          background-image: url(./images/hero_medium.png?1693530711291);
+          background-image: url(../images/hero_medium.png?1693530711291);
         }
       }
 
@@ -5450,7 +5450,7 @@ Mixin to define padding per viewport and column number
           height: 42px;
           background-size: 32px 42px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_apple_logo_lock_elevated_medium.png?1693530711291);
+          background-image: url(../images/flex_icon_apple_logo_lock_elevated_medium.png?1693530711291);
         }
       }
 
@@ -5460,7 +5460,7 @@ Mixin to define padding per viewport and column number
           height: 235px;
           background-size: 235px 235px;
           background-repeat: no-repeat;
-          background-image: url(./images/a16_bionic_medium.png?1693530711292);
+          background-image: url(../images/a16_bionic_medium.png?1693530711292);
         }
       }
 
@@ -5470,7 +5470,7 @@ Mixin to define padding per viewport and column number
           height: 64px;
           background-size: 63px 64px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_environment_medium.png?1693530711292);
+          background-image: url(../images/flex_icon_environment_medium.png?1693530711292);
         }
       }
 
@@ -5480,7 +5480,7 @@ Mixin to define padding per viewport and column number
           height: 343px;
           background-size: 262px 343px;
           background-repeat: no-repeat;
-          background-image: url(./images/dynamic_island_medium.png?1693530711293);
+          background-image: url(../images/dynamic_island_medium.png?1693530711293);
         }
       }
 
@@ -5490,7 +5490,7 @@ Mixin to define padding per viewport and column number
           height: 158px;
           background-size: 319px 158px;
           background-repeat: no-repeat;
-          background-image: url(./images/battery_medium.png?1693530711293);
+          background-image: url(../images/battery_medium.png?1693530711293);
         }
       }
 
@@ -5500,7 +5500,7 @@ Mixin to define padding per viewport and column number
           height: 278px;
           background-size: 152px 278px;
           background-repeat: no-repeat;
-          background-image: url(./images/display_size_medium.png?1693530711293);
+          background-image: url(../images/display_size_medium.png?1693530711293);
         }
       }
 
@@ -5510,7 +5510,7 @@ Mixin to define padding per viewport and column number
           height: 225px;
           background-size: 280px 225px;
           background-repeat: no-repeat;
-          background-image: url(./images/color_medium.png?1693530711293);
+          background-image: url(../images/color_medium.png?1693530711293);
         }
       }
 
@@ -5520,7 +5520,7 @@ Mixin to define padding per viewport and column number
           height: 173px;
           background-size: 167px 173px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_for_all_medium.png?1693530711293);
+          background-image: url(../images/flex_for_all_medium.png?1693530711293);
         }
       }
 
@@ -5530,7 +5530,7 @@ Mixin to define padding per viewport and column number
           height: 23px;
           background-size: 100px 23px;
           background-repeat: no-repeat;
-          background-image: url(./images/hero_logo_medium.png?1693530711293);
+          background-image: url(../images/hero_logo_medium.png?1693530711293);
         }
       }
 
@@ -5540,7 +5540,7 @@ Mixin to define padding per viewport and column number
           height: 48px;
           background-size: 34px 48px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_iphone_and_iphone_elevated_medium.png?1693530711294);
+          background-image: url(../images/flex_icon_iphone_and_iphone_elevated_medium.png?1693530711294);
         }
       }
 
@@ -5550,7 +5550,7 @@ Mixin to define padding per viewport and column number
           height: 169px;
           background-size: 219px 169px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_privacy_final_medium.png?1693530711294);
+          background-image: url(../images/flex_privacy_final_medium.png?1693530711294);
         }
       }
 
@@ -5560,7 +5560,7 @@ Mixin to define padding per viewport and column number
           height: 288px;
           background-size: 262px 288px;
           background-repeat: no-repeat;
-          background-image: url(./images/portrait_mode_medium.png?1693530711295);
+          background-image: url(../images/portrait_mode_medium.png?1693530711295);
         }
       }
 
@@ -5570,7 +5570,7 @@ Mixin to define padding per viewport and column number
           height: 420px;
           background-size: 336px 420px;
           background-repeat: no-repeat;
-          background-image: url(./images/roadside_assistance_medium.png?1693530711295);
+          background-image: url(../images/roadside_assistance_medium.png?1693530711295);
         }
       }
 
@@ -5582,7 +5582,7 @@ Mixin to define padding per viewport and column number
           height: 225px;
           background-size: 280px 225px;
           background-repeat: no-repeat;
-          background-image: url(./images/color_medium_2x.png?1693530711286);
+          background-image: url(../images/color_medium_2x.png?1693530711286);
         }
       }
 
@@ -5594,7 +5594,7 @@ Mixin to define padding per viewport and column number
           height: 420px;
           background-size: 336px 420px;
           background-repeat: no-repeat;
-          background-image: url(./images/roadside_assistance_medium_2x.png?1693530711286);
+          background-image: url(../images/roadside_assistance_medium_2x.png?1693530711286);
         }
       }
 
@@ -5606,7 +5606,7 @@ Mixin to define padding per viewport and column number
           height: 288px;
           background-size: 262px 288px;
           background-repeat: no-repeat;
-          background-image: url(./images/portrait_mode_medium_2x.png?1693530711286);
+          background-image: url(../images/portrait_mode_medium_2x.png?1693530711286);
         }
       }
 
@@ -5618,7 +5618,7 @@ Mixin to define padding per viewport and column number
           height: 235px;
           background-size: 235px 235px;
           background-repeat: no-repeat;
-          background-image: url(./images/a16_bionic_medium_2x.png?1693530711287);
+          background-image: url(../images/a16_bionic_medium_2x.png?1693530711287);
         }
       }
 
@@ -5630,7 +5630,7 @@ Mixin to define padding per viewport and column number
           height: 279px;
           background-size: 292px 279px;
           background-repeat: no-repeat;
-          background-image: url(./images/usb-c_medium_2x.png?1693530711287);
+          background-image: url(../images/usb-c_medium_2x.png?1693530711287);
         }
       }
 
@@ -5642,7 +5642,7 @@ Mixin to define padding per viewport and column number
           height: 18px;
           background-size: 44px 18px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_logo_apple_tv_plus_medium_2x.png?1693530711288);
+          background-image: url(../images/flex_logo_apple_tv_plus_medium_2x.png?1693530711288);
         }
       }
 
@@ -5654,7 +5654,7 @@ Mixin to define padding per viewport and column number
           height: 274px;
           background-size: 1068px 274px;
           background-repeat: no-repeat;
-          background-image: url(./images/hero_medium_2x.png?1693530711288);
+          background-image: url(../images/hero_medium_2x.png?1693530711288);
         }
       }
 
@@ -5666,7 +5666,7 @@ Mixin to define padding per viewport and column number
           height: 278px;
           background-size: 152px 278px;
           background-repeat: no-repeat;
-          background-image: url(./images/display_size_medium_2x.png?1693530711288);
+          background-image: url(../images/display_size_medium_2x.png?1693530711288);
         }
       }
 
@@ -5678,7 +5678,7 @@ Mixin to define padding per viewport and column number
           height: 169px;
           background-size: 219px 169px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_privacy_final_medium_2x.png?1693530711289);
+          background-image: url(../images/flex_privacy_final_medium_2x.png?1693530711289);
         }
       }
 
@@ -5690,7 +5690,7 @@ Mixin to define padding per viewport and column number
           height: 343px;
           background-size: 262px 343px;
           background-repeat: no-repeat;
-          background-image: url(./images/dynamic_island_medium_2x.png?1693530711289);
+          background-image: url(../images/dynamic_island_medium_2x.png?1693530711289);
         }
       }
 
@@ -5702,7 +5702,7 @@ Mixin to define padding per viewport and column number
           height: 218px;
           background-size: 195px 218px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_applecare_medium_2x.png?1693530711289);
+          background-image: url(../images/flex_applecare_medium_2x.png?1693530711289);
         }
       }
 
@@ -5714,7 +5714,7 @@ Mixin to define padding per viewport and column number
           height: 64px;
           background-size: 63px 64px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_environment_medium_2x.png?1693530711289);
+          background-image: url(../images/flex_icon_environment_medium_2x.png?1693530711289);
         }
       }
 
@@ -5726,7 +5726,7 @@ Mixin to define padding per viewport and column number
           height: 48px;
           background-size: 34px 48px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_iphone_and_iphone_elevated_medium_2x.png?1693530711290);
+          background-image: url(../images/flex_icon_iphone_and_iphone_elevated_medium_2x.png?1693530711290);
         }
       }
 
@@ -5738,7 +5738,7 @@ Mixin to define padding per viewport and column number
           height: 420px;
           background-size: 336px 420px;
           background-repeat: no-repeat;
-          background-image: url(./images/camera_medium_2x.png?1693530711290);
+          background-image: url(../images/camera_medium_2x.png?1693530711290);
         }
       }
 
@@ -5750,7 +5750,7 @@ Mixin to define padding per viewport and column number
           height: 158px;
           background-size: 319px 158px;
           background-repeat: no-repeat;
-          background-image: url(./images/battery_medium_2x.png?1693530711290);
+          background-image: url(../images/battery_medium_2x.png?1693530711290);
         }
       }
 
@@ -5762,7 +5762,7 @@ Mixin to define padding per viewport and column number
           height: 41px;
           background-size: 41px 41px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_accessibility_elevated_medium_2x.png?1693530711291);
+          background-image: url(../images/flex_icon_accessibility_elevated_medium_2x.png?1693530711291);
         }
       }
 
@@ -5774,7 +5774,7 @@ Mixin to define padding per viewport and column number
           height: 288px;
           background-size: 306px 288px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_magsafe_medium_2x.png?1693530711291);
+          background-image: url(../images/flex_magsafe_medium_2x.png?1693530711291);
         }
       }
 
@@ -5786,7 +5786,7 @@ Mixin to define padding per viewport and column number
           height: 42px;
           background-size: 32px 42px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_apple_logo_lock_elevated_medium_2x.png?1693530711292);
+          background-image: url(../images/flex_icon_apple_logo_lock_elevated_medium_2x.png?1693530711292);
         }
       }
 
@@ -5798,7 +5798,7 @@ Mixin to define padding per viewport and column number
           height: 382px;
           background-size: 245px 382px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_apple_tv_plus_medium_2x.png?1693530711293);
+          background-image: url(../images/flex_apple_tv_plus_medium_2x.png?1693530711293);
         }
       }
 
@@ -5810,7 +5810,7 @@ Mixin to define padding per viewport and column number
           height: 14px;
           background-size: 15px 14px;
           background-repeat: no-repeat;
-          background-image: url(./images/check_d1112b_34_R_medium_2x.png?1693530711293);
+          background-image: url(../images/check_d1112b_34_R_medium_2x.png?1693530711293);
         }
       }
 
@@ -5822,7 +5822,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 49px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_ios_medium_2x.png?1693530711294);
+          background-image: url(../images/flex_icon_ios_medium_2x.png?1693530711294);
         }
       }
 
@@ -5834,7 +5834,7 @@ Mixin to define padding per viewport and column number
           height: 173px;
           background-size: 167px 173px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_for_all_medium_2x.png?1693530711295);
+          background-image: url(../images/flex_for_all_medium_2x.png?1693530711295);
         }
       }
 
@@ -5846,7 +5846,7 @@ Mixin to define padding per viewport and column number
           height: 23px;
           background-size: 100px 23px;
           background-repeat: no-repeat;
-          background-image: url(./images/hero_logo_medium_2x.png?1693530711295);
+          background-image: url(../images/hero_logo_medium_2x.png?1693530711295);
         }
       }
 
@@ -5856,7 +5856,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_xr_blue_small.png?1693530711286);
+          background-image: url(../images/header_iphone_xr_blue_small.png?1693530711286);
         }
       }
 
@@ -5866,7 +5866,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 49px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_ios_small.png?1693530711286);
+          background-image: url(../images/flex_icon_ios_small.png?1693530711286);
         }
       }
 
@@ -5876,7 +5876,7 @@ Mixin to define padding per viewport and column number
           height: 309px;
           background-size: 234px 309px;
           background-repeat: no-repeat;
-          background-image: url(./images/dynamic_island_small.png?1693530711286);
+          background-image: url(../images/dynamic_island_small.png?1693530711286);
         }
       }
 
@@ -5886,7 +5886,7 @@ Mixin to define padding per viewport and column number
           height: 271px;
           background-size: 148px 271px;
           background-repeat: no-repeat;
-          background-image: url(./images/display_size_small.png?1693530711286);
+          background-image: url(../images/display_size_small.png?1693530711286);
         }
       }
 
@@ -5896,7 +5896,7 @@ Mixin to define padding per viewport and column number
           height: 42px;
           background-size: 42px 42px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_accessibility_elevated_small.png?1693530711286);
+          background-image: url(../images/flex_icon_accessibility_elevated_small.png?1693530711286);
         }
       }
 
@@ -5906,7 +5906,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_14_pro_twilight_purple_small.png?1693530711286);
+          background-image: url(../images/header_iphone_14_pro_twilight_purple_small.png?1693530711286);
         }
       }
 
@@ -5916,7 +5916,7 @@ Mixin to define padding per viewport and column number
           height: 15px;
           background-size: 37px 15px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_logo_apple_tv_plus_small.png?1693530711287);
+          background-image: url(../images/flex_logo_apple_tv_plus_small.png?1693530711287);
         }
       }
 
@@ -5926,7 +5926,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_14_plus_blue_small.png?1693530711287);
+          background-image: url(../images/header_iphone_14_plus_blue_small.png?1693530711287);
         }
       }
 
@@ -5936,7 +5936,7 @@ Mixin to define padding per viewport and column number
           height: 108px;
           background-size: 216px 108px;
           background-repeat: no-repeat;
-          background-image: url(./images/battery_small.png?1693530711287);
+          background-image: url(../images/battery_small.png?1693530711287);
         }
       }
 
@@ -5946,7 +5946,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_11_pro_midnight_green_small.png?1693530711287);
+          background-image: url(../images/header_iphone_11_pro_midnight_green_small.png?1693530711287);
         }
       }
 
@@ -5956,7 +5956,7 @@ Mixin to define padding per viewport and column number
           height: 145px;
           background-size: 193px 145px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_privacy_final_small.png?1693530711287);
+          background-image: url(../images/flex_privacy_final_small.png?1693530711287);
         }
       }
 
@@ -5966,7 +5966,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_8_silver_small.png?1693530711287);
+          background-image: url(../images/header_iphone_8_silver_small.png?1693530711287);
         }
       }
 
@@ -5976,7 +5976,7 @@ Mixin to define padding per viewport and column number
           height: 420px;
           background-size: 320px 420px;
           background-repeat: no-repeat;
-          background-image: url(./images/roadside_assistance_small.png?1693530711287);
+          background-image: url(../images/roadside_assistance_small.png?1693530711287);
         }
       }
 
@@ -5986,7 +5986,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_13_mini_pink_small.png?1693530711287);
+          background-image: url(../images/header_iphone_13_mini_pink_small.png?1693530711287);
         }
       }
 
@@ -5996,7 +5996,7 @@ Mixin to define padding per viewport and column number
           height: 48px;
           background-size: 34px 48px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_iphone_and_iphone_elevated_small.png?1693530711288);
+          background-image: url(../images/flex_icon_iphone_and_iphone_elevated_small.png?1693530711288);
         }
       }
 
@@ -6006,7 +6006,7 @@ Mixin to define padding per viewport and column number
           height: 260px;
           background-size: 320px 260px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_magsafe_small.png?1693530711288);
+          background-image: url(../images/flex_magsafe_small.png?1693530711288);
         }
       }
 
@@ -6016,7 +6016,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_12_pro_pacific_blue_small.png?1693530711288);
+          background-image: url(../images/header_iphone_12_pro_pacific_blue_small.png?1693530711288);
         }
       }
 
@@ -6026,7 +6026,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_13_pink_small.png?1693530711288);
+          background-image: url(../images/header_iphone_13_pink_small.png?1693530711288);
         }
       }
 
@@ -6036,7 +6036,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_14_pro_max_twilight_purple_small.png?1693530711288);
+          background-image: url(../images/header_iphone_14_pro_max_twilight_purple_small.png?1693530711288);
         }
       }
 
@@ -6046,7 +6046,7 @@ Mixin to define padding per viewport and column number
           height: 311px;
           background-size: 261px 311px;
           background-repeat: no-repeat;
-          background-image: url(./images/portrait_mode_small.png?1693530711288);
+          background-image: url(../images/portrait_mode_small.png?1693530711288);
         }
       }
 
@@ -6056,7 +6056,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_se_gen02_black_small.png?1693530711288);
+          background-image: url(../images/header_iphone_se_gen02_black_small.png?1693530711288);
         }
       }
 
@@ -6066,7 +6066,7 @@ Mixin to define padding per viewport and column number
           height: 183px;
           background-size: 195px 183px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_for_all_small.png?1693530711289);
+          background-image: url(../images/flex_for_all_small.png?1693530711289);
         }
       }
 
@@ -6076,7 +6076,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_7_black_small.png?1693530711289);
+          background-image: url(../images/header_iphone_7_black_small.png?1693530711289);
         }
       }
 
@@ -6086,7 +6086,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_7_plus_black_small.png?1693530711289);
+          background-image: url(../images/header_iphone_7_plus_black_small.png?1693530711289);
         }
       }
 
@@ -6096,7 +6096,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_13_pro_max_sierra_blue_small.png?1693530711289);
+          background-image: url(../images/header_iphone_13_pro_max_sierra_blue_small.png?1693530711289);
         }
       }
 
@@ -6106,7 +6106,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_14_blue_small.png?1693530711290);
+          background-image: url(../images/header_iphone_14_blue_small.png?1693530711290);
         }
       }
 
@@ -6116,7 +6116,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_12_pro_max_pacific_blue_small.png?1693530711290);
+          background-image: url(../images/header_iphone_12_pro_max_pacific_blue_small.png?1693530711290);
         }
       }
 
@@ -6126,7 +6126,7 @@ Mixin to define padding per viewport and column number
           height: 420px;
           background-size: 320px 420px;
           background-repeat: no-repeat;
-          background-image: url(./images/camera_small.png?1693530711290);
+          background-image: url(../images/camera_small.png?1693530711290);
         }
       }
 
@@ -6136,7 +6136,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_11_pro_max_midnight_green_small.png?1693530711290);
+          background-image: url(../images/header_iphone_11_pro_max_midnight_green_small.png?1693530711290);
         }
       }
 
@@ -6146,7 +6146,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_11_purple_small.png?1693530711291);
+          background-image: url(../images/header_iphone_11_purple_small.png?1693530711291);
         }
       }
 
@@ -6156,7 +6156,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_se_gen03_midnight_small.png?1693530711291);
+          background-image: url(../images/header_iphone_se_gen03_midnight_small.png?1693530711291);
         }
       }
 
@@ -6166,7 +6166,7 @@ Mixin to define padding per viewport and column number
           height: 190px;
           background-size: 190px 190px;
           background-repeat: no-repeat;
-          background-image: url(./images/a16_bionic_small.png?1693530711291);
+          background-image: url(../images/a16_bionic_small.png?1693530711291);
         }
       }
 
@@ -6176,7 +6176,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_6s_space_gray_small.png?1693530711291);
+          background-image: url(../images/header_iphone_6s_space_gray_small.png?1693530711291);
         }
       }
 
@@ -6186,7 +6186,7 @@ Mixin to define padding per viewport and column number
           height: 292px;
           background-size: 291px 292px;
           background-repeat: no-repeat;
-          background-image: url(./images/usb-c_small.png?1693530711291);
+          background-image: url(../images/usb-c_small.png?1693530711291);
         }
       }
 
@@ -6196,7 +6196,7 @@ Mixin to define padding per viewport and column number
           height: 14px;
           background-size: 15px 14px;
           background-repeat: no-repeat;
-          background-image: url(./images/check_d1112b_34_R_small.png?1693530711292);
+          background-image: url(../images/check_d1112b_34_R_small.png?1693530711292);
         }
       }
 
@@ -6206,7 +6206,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_se_space_gray_small.png?1693530711292);
+          background-image: url(../images/header_iphone_se_space_gray_small.png?1693530711292);
         }
       }
 
@@ -6216,7 +6216,7 @@ Mixin to define padding per viewport and column number
           height: 232px;
           background-size: 192px 232px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_applecare_small.png?1693530711292);
+          background-image: url(../images/flex_applecare_small.png?1693530711292);
         }
       }
 
@@ -6226,7 +6226,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_xs_silver_small.png?1693530711292);
+          background-image: url(../images/header_iphone_xs_silver_small.png?1693530711292);
         }
       }
 
@@ -6236,7 +6236,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_15_pro_tigry_small.png?1693530711292);
+          background-image: url(../images/header_iphone_15_pro_tigry_small.png?1693530711292);
         }
       }
 
@@ -6246,7 +6246,7 @@ Mixin to define padding per viewport and column number
           height: 42px;
           background-size: 32px 42px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_apple_logo_lock_elevated_small.png?1693530711292);
+          background-image: url(../images/flex_icon_apple_logo_lock_elevated_small.png?1693530711292);
         }
       }
 
@@ -6256,7 +6256,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_6_space_gray_small.png?1693530711292);
+          background-image: url(../images/header_iphone_6_space_gray_small.png?1693530711292);
         }
       }
 
@@ -6266,7 +6266,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_15_pro_max_tigry_small.png?1693530711292);
+          background-image: url(../images/header_iphone_15_pro_max_tigry_small.png?1693530711292);
         }
       }
 
@@ -6276,7 +6276,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_15_pink_small.png?1693530711292);
+          background-image: url(../images/header_iphone_15_pink_small.png?1693530711292);
         }
       }
 
@@ -6286,7 +6286,7 @@ Mixin to define padding per viewport and column number
           height: 390px;
           background-size: 734px 390px;
           background-repeat: no-repeat;
-          background-image: url(./images/hero_small.png?1693530711292);
+          background-image: url(../images/hero_small.png?1693530711292);
         }
       }
 
@@ -6296,7 +6296,7 @@ Mixin to define padding per viewport and column number
           height: 190px;
           background-size: 236px 190px;
           background-repeat: no-repeat;
-          background-image: url(./images/color_small.png?1693530711292);
+          background-image: url(../images/color_small.png?1693530711292);
         }
       }
 
@@ -6306,7 +6306,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_13_pro_sierra_blue_small.png?1693530711292);
+          background-image: url(../images/header_iphone_13_pro_sierra_blue_small.png?1693530711292);
         }
       }
 
@@ -6316,7 +6316,7 @@ Mixin to define padding per viewport and column number
           height: 245px;
           background-size: 186px 245px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_apple_tv_plus_small.png?1693530711293);
+          background-image: url(../images/flex_apple_tv_plus_small.png?1693530711293);
         }
       }
 
@@ -6326,7 +6326,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_6_plus_space_gray_small.png?1693530711293);
+          background-image: url(../images/header_iphone_6_plus_space_gray_small.png?1693530711293);
         }
       }
 
@@ -6336,7 +6336,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_12_purple_small.png?1693530711293);
+          background-image: url(../images/header_iphone_12_purple_small.png?1693530711293);
         }
       }
 
@@ -6346,7 +6346,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_12_mini_purple_small.png?1693530711293);
+          background-image: url(../images/header_iphone_12_mini_purple_small.png?1693530711293);
         }
       }
 
@@ -6356,7 +6356,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_8_plus_silver_small.png?1693530711293);
+          background-image: url(../images/header_iphone_8_plus_silver_small.png?1693530711293);
         }
       }
 
@@ -6366,7 +6366,7 @@ Mixin to define padding per viewport and column number
           height: 20px;
           background-size: 85px 20px;
           background-repeat: no-repeat;
-          background-image: url(./images/hero_logo_small.png?1693530711293);
+          background-image: url(../images/hero_logo_small.png?1693530711293);
         }
       }
 
@@ -6376,7 +6376,7 @@ Mixin to define padding per viewport and column number
           height: 117px;
           background-size: 90px 117px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_15_plus_pink_small.png?1693530711294);
+          background-image: url(../images/header_iphone_15_plus_pink_small.png?1693530711294);
         }
       }
 
@@ -6386,7 +6386,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_xs_max_silver_small.png?1693530711295);
+          background-image: url(../images/header_iphone_xs_max_silver_small.png?1693530711295);
         }
       }
 
@@ -6396,7 +6396,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_6s_plus_space_gray_small.png?1693530711295);
+          background-image: url(../images/header_iphone_6s_plus_space_gray_small.png?1693530711295);
         }
       }
 
@@ -6406,7 +6406,7 @@ Mixin to define padding per viewport and column number
           height: 64px;
           background-size: 63px 64px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_environment_small.png?1693530711295);
+          background-image: url(../images/flex_icon_environment_small.png?1693530711295);
         }
       }
 
@@ -6416,7 +6416,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_x_silver_small.png?1693530711295);
+          background-image: url(../images/header_iphone_x_silver_small.png?1693530711295);
         }
       }
 
@@ -6428,7 +6428,7 @@ Mixin to define padding per viewport and column number
           height: 271px;
           background-size: 148px 271px;
           background-repeat: no-repeat;
-          background-image: url(./images/display_size_small_2x.png?1693530711286);
+          background-image: url(../images/display_size_small_2x.png?1693530711286);
         }
       }
 
@@ -6440,7 +6440,7 @@ Mixin to define padding per viewport and column number
           height: 64px;
           background-size: 63px 64px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_environment_small_2x.png?1693530711286);
+          background-image: url(../images/flex_icon_environment_small_2x.png?1693530711286);
         }
       }
 
@@ -6452,7 +6452,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_6_plus_space_gray_small_2x.png?1693530711286);
+          background-image: url(../images/header_iphone_6_plus_space_gray_small_2x.png?1693530711286);
         }
       }
 
@@ -6464,7 +6464,7 @@ Mixin to define padding per viewport and column number
           height: 311px;
           background-size: 261px 311px;
           background-repeat: no-repeat;
-          background-image: url(./images/portrait_mode_small_2x.png?1693530711286);
+          background-image: url(../images/portrait_mode_small_2x.png?1693530711286);
         }
       }
 
@@ -6476,7 +6476,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_11_pro_max_midnight_green_small_2x.png?1693530711286);
+          background-image: url(../images/header_iphone_11_pro_max_midnight_green_small_2x.png?1693530711286);
         }
       }
 
@@ -6488,7 +6488,7 @@ Mixin to define padding per viewport and column number
           height: 390px;
           background-size: 734px 390px;
           background-repeat: no-repeat;
-          background-image: url(./images/hero_small_2x.png?1693530711287);
+          background-image: url(../images/hero_small_2x.png?1693530711287);
         }
       }
 
@@ -6500,7 +6500,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_x_silver_small_2x.png?1693530711287);
+          background-image: url(../images/header_iphone_x_silver_small_2x.png?1693530711287);
         }
       }
 
@@ -6512,7 +6512,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_13_pro_max_sierra_blue_small_2x.png?1693530711287);
+          background-image: url(../images/header_iphone_13_pro_max_sierra_blue_small_2x.png?1693530711287);
         }
       }
 
@@ -6524,7 +6524,7 @@ Mixin to define padding per viewport and column number
           height: 292px;
           background-size: 291px 292px;
           background-repeat: no-repeat;
-          background-image: url(./images/usb-c_small_2x.png?1693530711287);
+          background-image: url(../images/usb-c_small_2x.png?1693530711287);
         }
       }
 
@@ -6536,7 +6536,7 @@ Mixin to define padding per viewport and column number
           height: 108px;
           background-size: 216px 108px;
           background-repeat: no-repeat;
-          background-image: url(./images/battery_small_2x.png?1693530711287);
+          background-image: url(../images/battery_small_2x.png?1693530711287);
         }
       }
 
@@ -6548,7 +6548,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_13_mini_pink_small_2x.png?1693530711287);
+          background-image: url(../images/header_iphone_13_mini_pink_small_2x.png?1693530711287);
         }
       }
 
@@ -6560,7 +6560,7 @@ Mixin to define padding per viewport and column number
           height: 145px;
           background-size: 193px 145px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_privacy_final_small_2x.png?1693530711287);
+          background-image: url(../images/flex_privacy_final_small_2x.png?1693530711287);
         }
       }
 
@@ -6572,7 +6572,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_11_pro_midnight_green_small_2x.png?1693530711288);
+          background-image: url(../images/header_iphone_11_pro_midnight_green_small_2x.png?1693530711288);
         }
       }
 
@@ -6584,7 +6584,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_12_purple_small_2x.png?1693530711288);
+          background-image: url(../images/header_iphone_12_purple_small_2x.png?1693530711288);
         }
       }
 
@@ -6596,7 +6596,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_7_black_small_2x.png?1693530711288);
+          background-image: url(../images/header_iphone_7_black_small_2x.png?1693530711288);
         }
       }
 
@@ -6608,7 +6608,7 @@ Mixin to define padding per viewport and column number
           height: 420px;
           background-size: 320px 420px;
           background-repeat: no-repeat;
-          background-image: url(./images/roadside_assistance_small_2x.png?1693530711288);
+          background-image: url(../images/roadside_assistance_small_2x.png?1693530711288);
         }
       }
 
@@ -6620,7 +6620,7 @@ Mixin to define padding per viewport and column number
           height: 14px;
           background-size: 15px 14px;
           background-repeat: no-repeat;
-          background-image: url(./images/check_d1112b_34_R_small_2x.png?1693530711288);
+          background-image: url(../images/check_d1112b_34_R_small_2x.png?1693530711288);
         }
       }
 
@@ -6632,7 +6632,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_14_plus_blue_small_2x.png?1693530711289);
+          background-image: url(../images/header_iphone_14_plus_blue_small_2x.png?1693530711289);
         }
       }
 
@@ -6644,7 +6644,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_xr_blue_small_2x.png?1693530711289);
+          background-image: url(../images/header_iphone_xr_blue_small_2x.png?1693530711289);
         }
       }
 
@@ -6656,7 +6656,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_se_space_gray_small_2x.png?1693530711289);
+          background-image: url(../images/header_iphone_se_space_gray_small_2x.png?1693530711289);
         }
       }
 
@@ -6668,7 +6668,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_8_silver_small_2x.png?1693530711289);
+          background-image: url(../images/header_iphone_8_silver_small_2x.png?1693530711289);
         }
       }
 
@@ -6680,7 +6680,7 @@ Mixin to define padding per viewport and column number
           height: 15px;
           background-size: 37px 15px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_logo_apple_tv_plus_small_2x.png?1693530711289);
+          background-image: url(../images/flex_logo_apple_tv_plus_small_2x.png?1693530711289);
         }
       }
 
@@ -6692,7 +6692,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_se_gen03_midnight_small_2x.png?1693530711289);
+          background-image: url(../images/header_iphone_se_gen03_midnight_small_2x.png?1693530711289);
         }
       }
 
@@ -6704,7 +6704,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_12_pro_max_pacific_blue_small_2x.png?1693530711290);
+          background-image: url(../images/header_iphone_12_pro_max_pacific_blue_small_2x.png?1693530711290);
         }
       }
 
@@ -6716,7 +6716,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_15_pro_tigry_small_2x.png?1693530711290);
+          background-image: url(../images/header_iphone_15_pro_tigry_small_2x.png?1693530711290);
         }
       }
 
@@ -6728,7 +6728,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_14_blue_small_2x.png?1693530711290);
+          background-image: url(../images/header_iphone_14_blue_small_2x.png?1693530711290);
         }
       }
 
@@ -6740,7 +6740,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_6s_space_gray_small_2x.png?1693530711290);
+          background-image: url(../images/header_iphone_6s_space_gray_small_2x.png?1693530711290);
         }
       }
 
@@ -6752,7 +6752,7 @@ Mixin to define padding per viewport and column number
           height: 190px;
           background-size: 190px 190px;
           background-repeat: no-repeat;
-          background-image: url(./images/a16_bionic_small_2x.png?1693530711290);
+          background-image: url(../images/a16_bionic_small_2x.png?1693530711290);
         }
       }
 
@@ -6764,7 +6764,7 @@ Mixin to define padding per viewport and column number
           height: 42px;
           background-size: 32px 42px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_apple_logo_lock_elevated_small_2x.png?1693530711290);
+          background-image: url(../images/flex_icon_apple_logo_lock_elevated_small_2x.png?1693530711290);
         }
       }
 
@@ -6776,7 +6776,7 @@ Mixin to define padding per viewport and column number
           height: 245px;
           background-size: 186px 245px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_apple_tv_plus_small_2x.png?1693530711290);
+          background-image: url(../images/flex_apple_tv_plus_small_2x.png?1693530711290);
         }
       }
 
@@ -6788,7 +6788,7 @@ Mixin to define padding per viewport and column number
           height: 190px;
           background-size: 236px 190px;
           background-repeat: no-repeat;
-          background-image: url(./images/color_small_2x.png?1693530711291);
+          background-image: url(../images/color_small_2x.png?1693530711291);
         }
       }
 
@@ -6800,7 +6800,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_12_pro_pacific_blue_small_2x.png?1693530711291);
+          background-image: url(../images/header_iphone_12_pro_pacific_blue_small_2x.png?1693530711291);
         }
       }
 
@@ -6812,7 +6812,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_11_purple_small_2x.png?1693530711291);
+          background-image: url(../images/header_iphone_11_purple_small_2x.png?1693530711291);
         }
       }
 
@@ -6824,7 +6824,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_8_plus_silver_small_2x.png?1693530711291);
+          background-image: url(../images/header_iphone_8_plus_silver_small_2x.png?1693530711291);
         }
       }
 
@@ -6836,7 +6836,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_se_gen02_black_small_2x.png?1693530711292);
+          background-image: url(../images/header_iphone_se_gen02_black_small_2x.png?1693530711292);
         }
       }
 
@@ -6848,7 +6848,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_xs_silver_small_2x.png?1693530711292);
+          background-image: url(../images/header_iphone_xs_silver_small_2x.png?1693530711292);
         }
       }
 
@@ -6860,7 +6860,7 @@ Mixin to define padding per viewport and column number
           height: 42px;
           background-size: 42px 42px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_accessibility_elevated_small_2x.png?1693530711292);
+          background-image: url(../images/flex_icon_accessibility_elevated_small_2x.png?1693530711292);
         }
       }
 
@@ -6872,7 +6872,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_13_pro_sierra_blue_small_2x.png?1693530711292);
+          background-image: url(../images/header_iphone_13_pro_sierra_blue_small_2x.png?1693530711292);
         }
       }
 
@@ -6884,7 +6884,7 @@ Mixin to define padding per viewport and column number
           height: 38px;
           background-size: 49px 38px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_ios_small_2x.png?1693530711292);
+          background-image: url(../images/flex_icon_ios_small_2x.png?1693530711292);
         }
       }
 
@@ -6896,7 +6896,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_7_plus_black_small_2x.png?1693530711292);
+          background-image: url(../images/header_iphone_7_plus_black_small_2x.png?1693530711292);
         }
       }
 
@@ -6908,7 +6908,7 @@ Mixin to define padding per viewport and column number
           height: 232px;
           background-size: 192px 232px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_applecare_small_2x.png?1693530711292);
+          background-image: url(../images/flex_applecare_small_2x.png?1693530711292);
         }
       }
 
@@ -6920,7 +6920,7 @@ Mixin to define padding per viewport and column number
           height: 117px;
           background-size: 90px 117px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_15_plus_pink_small_2x.png?1693530711292);
+          background-image: url(../images/header_iphone_15_plus_pink_small_2x.png?1693530711292);
         }
       }
 
@@ -6932,7 +6932,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_15_pink_small_2x.png?1693530711292);
+          background-image: url(../images/header_iphone_15_pink_small_2x.png?1693530711292);
         }
       }
 
@@ -6944,7 +6944,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_6_space_gray_small_2x.png?1693530711293);
+          background-image: url(../images/header_iphone_6_space_gray_small_2x.png?1693530711293);
         }
       }
 
@@ -6956,7 +6956,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_xs_max_silver_small_2x.png?1693530711293);
+          background-image: url(../images/header_iphone_xs_max_silver_small_2x.png?1693530711293);
         }
       }
 
@@ -6968,7 +6968,7 @@ Mixin to define padding per viewport and column number
           height: 20px;
           background-size: 85px 20px;
           background-repeat: no-repeat;
-          background-image: url(./images/hero_logo_small_2x.png?1693530711293);
+          background-image: url(../images/hero_logo_small_2x.png?1693530711293);
         }
       }
 
@@ -6980,7 +6980,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_14_pro_max_twilight_purple_small_2x.png?1693530711294);
+          background-image: url(../images/header_iphone_14_pro_max_twilight_purple_small_2x.png?1693530711294);
         }
       }
 
@@ -6992,7 +6992,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_12_mini_purple_small_2x.png?1693530711294);
+          background-image: url(../images/header_iphone_12_mini_purple_small_2x.png?1693530711294);
         }
       }
 
@@ -7004,7 +7004,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_13_pink_small_2x.png?1693530711294);
+          background-image: url(../images/header_iphone_13_pink_small_2x.png?1693530711294);
         }
       }
 
@@ -7016,7 +7016,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_14_pro_twilight_purple_small_2x.png?1693530711294);
+          background-image: url(../images/header_iphone_14_pro_twilight_purple_small_2x.png?1693530711294);
         }
       }
 
@@ -7028,7 +7028,7 @@ Mixin to define padding per viewport and column number
           height: 260px;
           background-size: 320px 260px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_magsafe_small_2x.png?1693530711294);
+          background-image: url(../images/flex_magsafe_small_2x.png?1693530711294);
         }
       }
 
@@ -7040,7 +7040,7 @@ Mixin to define padding per viewport and column number
           height: 420px;
           background-size: 320px 420px;
           background-repeat: no-repeat;
-          background-image: url(./images/camera_small_2x.png?1693530711294);
+          background-image: url(../images/camera_small_2x.png?1693530711294);
         }
       }
 
@@ -7052,7 +7052,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_15_pro_max_tigry_small_2x.png?1693530711294);
+          background-image: url(../images/header_iphone_15_pro_max_tigry_small_2x.png?1693530711294);
         }
       }
 
@@ -7064,7 +7064,7 @@ Mixin to define padding per viewport and column number
           height: 119px;
           background-size: 97px 119px;
           background-repeat: no-repeat;
-          background-image: url(./images/header_iphone_6s_plus_space_gray_small_2x.png?1693530711294);
+          background-image: url(../images/header_iphone_6s_plus_space_gray_small_2x.png?1693530711294);
         }
       }
 
@@ -7076,7 +7076,7 @@ Mixin to define padding per viewport and column number
           height: 309px;
           background-size: 234px 309px;
           background-repeat: no-repeat;
-          background-image: url(./images/dynamic_island_small_2x.png?1693530711294);
+          background-image: url(../images/dynamic_island_small_2x.png?1693530711294);
         }
       }
 
@@ -7088,7 +7088,7 @@ Mixin to define padding per viewport and column number
           height: 183px;
           background-size: 195px 183px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_for_all_small_2x.png?1693530711295);
+          background-image: url(../images/flex_for_all_small_2x.png?1693530711295);
         }
       }
 
@@ -7100,7 +7100,7 @@ Mixin to define padding per viewport and column number
           height: 48px;
           background-size: 34px 48px;
           background-repeat: no-repeat;
-          background-image: url(./images/flex_icon_iphone_and_iphone_elevated_small_2x.png?1693530711295);
+          background-image: url(../images/flex_icon_iphone_and_iphone_elevated_small_2x.png?1693530711295);
         }
       }
 
