@@ -1,0 +1,24 @@
+<svg id="Group_6329" data-name="Group 6329" xmlns="http://www.w3.org/2000/svg" width="52.21" height="52.21" viewBox="0 0 52.21 52.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fdf3f3;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #e10a0a;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Group_6306" data-name="Group 6306" transform="translate(0)">
+    <circle id="Ellipse_52" data-name="Ellipse 52" class="cls-1" cx="26.105" cy="26.105" r="26.105"/>
+  </g>
+  <g id="Icon_feather-video" data-name="Icon feather-video" transform="translate(11.631 17.445)">
+    <path id="Path_778" data-name="Path 778" class="cls-2" d="M33.227,10.5,24,17.092l9.227,6.592Z" transform="translate(-4.225 -7.863)"/>
+    <path id="Path_779" data-name="Path 779" class="cls-2" d="M4.137,7.5h14.5a2.637,2.637,0,0,1,2.637,2.637V23.319a2.637,2.637,0,0,1-2.637,2.637H4.137A2.637,2.637,0,0,1,1.5,23.319V10.137A2.637,2.637,0,0,1,4.137,7.5Z" transform="translate(-1.5 -7.5)"/>
+  </g>
+</svg>
