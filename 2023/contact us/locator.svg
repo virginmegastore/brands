@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.909" height="66.283" viewBox="0 0 46.909 66.283">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #e10a0a;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <path id="location-icon" class="cls-1" d="M28.955,3A21.439,21.439,0,0,0,7.5,24.455C7.5,40.546,28.955,64.3,28.955,64.3S50.409,40.546,50.409,24.455A21.439,21.439,0,0,0,28.955,3Zm0,29.117a7.662,7.662,0,1,1,7.662-7.662A7.665,7.665,0,0,1,28.955,32.117Z" transform="translate(-5.5 -1)"/>
+</svg>
